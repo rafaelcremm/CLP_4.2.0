@@ -9,6 +9,8 @@
 #define T_100ms         0                  // Tempo total de operacao. Onde 12345 =  1234,5s
 
 // FUNCAO ESPECIAL
+
+#define CTRL_AMP        0
 #define Temp_Atual      23              //Temperatura (ºC) ambiente do local onde estava armazenado o CI.
 #define FUNCAO_TESTE_ENTER 0            // O gerador executa um teste de solda pressionando Botao no IHM
 #define FREQ_INI        1               // É possivel mudar a freq inicial pressionando ENTER

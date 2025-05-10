@@ -1,0 +1,3030 @@
+[p LITE_MODE AUTOSTATIC PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F18877 ]
+[d frameptr 6 ]
+"362 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\var.h
+[e E15119 . `uc
+PORTUGUES 0
+INGLES 1
+TAMANHO_IDIOMA 2
+]
+"540
+[e E15139 . `uc
+NORMAL 0
+RAPIDO 1
+CONTINUO 2
+CONTINUO_PULSO 3
+TAMANHO_MODO 3
+]
+"541
+[e E15146 . `uc
+PARADO 0
+DESCENDO 1
+SOLDANDO 2
+FIXANDO 3
+ERRO_SOLDA 4
+]
+"544
+[e E15153 . `uc
+TELA_NC 0
+TELA_TMP_DESCE 1
+TELA_TMP_SOLDA 2
+TELA_TMP_JOULE 3
+TELA_TIPO_SOLDA 4
+TELA_TMP_FIXAR 5
+TELA_METAL 6
+TELA_TMP_CONT 7
+TELA_TIPO_CONT 8
+TELA_FREQ_INI 9
+TELA_TIPO_MAQU 10
+TELA_TMP_LOAD 11
+TELA_TMP_SAVE 12
+TELA_OP_TMP 13
+TELA_IDIOMA 14
+TAMANHO_MENU 14
+]
+"35 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\main.c
+[e E15124 . `uc
+ESPECIAL 0
+PISTOLA_PULSADO 1
+MAQUINA_PULSADO 2
+MAQUINA_MM 3
+TAMANHO_MAQUINAS 4
+]
+"36
+[e E15131 . `uc
+SOW280 0
+SOW160 1
+SOW120 2
+SOW100 3
+SOWESP 4
+TAMANHO_GERADOR 5
+]
+"62
+[e E15193 . `uc
+OUT_NC 0
+PNE_DESCE 1
+PNE_SOBE 2
+ERRO 3
+ERRO_ENE 4
+STATUS_GERADOR 5
+STATUS_HF 6
+RST_INV 7
+OPC_SAIDA_MAX 7
+]
+"362 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\var.h
+[e E15119 . `uc
+PORTUGUES 0
+INGLES 1
+TAMANHO_IDIOMA 2
+]
+"540
+[e E15139 . `uc
+NORMAL 0
+RAPIDO 1
+CONTINUO 2
+CONTINUO_PULSO 3
+TAMANHO_MODO 3
+]
+"541
+[e E15146 . `uc
+PARADO 0
+DESCENDO 1
+SOLDANDO 2
+FIXANDO 3
+ERRO_SOLDA 4
+]
+"544
+[e E15153 . `uc
+TELA_NC 0
+TELA_TMP_DESCE 1
+TELA_TMP_SOLDA 2
+TELA_TMP_JOULE 3
+TELA_TIPO_SOLDA 4
+TELA_TMP_FIXAR 5
+TELA_METAL 6
+TELA_TMP_CONT 7
+TELA_TIPO_CONT 8
+TELA_FREQ_INI 9
+TELA_TIPO_MAQU 10
+TELA_TMP_LOAD 11
+TELA_TMP_SAVE 12
+TELA_OP_TMP 13
+TELA_IDIOMA 14
+TAMANHO_MENU 14
+]
+"262 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[e E15184 . `uc
+IN_NONE 0
+IN1 1
+IN2 2
+IN3 3
+IN4 4
+IN5 5
+ENTRADA_MAX 5
+]
+"267
+[e E15204 . `uc
+OUT_NONE 0
+OUT1 1
+OUT2 2
+OUT3 3
+OUT4 4
+SAIDA_MAX 4
+]
+"403
+[e E15193 . `uc
+OUT_NC 0
+PNE_DESCE 1
+PNE_SOBE 2
+ERRO 3
+ERRO_ENE 4
+STATUS_GERADOR 5
+STATUS_HF 6
+RST_INV 7
+OPC_SAIDA_MAX 7
+]
+"820
+[e E15171 . `uc
+IN_NC 0
+EMERGENCIA 1
+ACIONAMENTO1 2
+ACIONAMENTO2 3
+RESET 4
+METAL 5
+SENSOR_PECA 6
+SENSOR_PNE_AV 7
+SENSOR_PNE_RC 8
+SENSOR_HOLD 9
+OPC_ENTRADA_MAX 9
+]
+"1074
+[e E15124 . `uc
+ESPECIAL 0
+PISTOLA_PULSADO 1
+MAQUINA_PULSADO 2
+MAQUINA_MM 3
+TAMANHO_MAQUINAS 4
+]
+"2666
+[e E15131 . `uc
+SOW280 0
+SOW160 1
+SOW120 2
+SOW100 3
+SOWESP 4
+TAMANHO_GERADOR 5
+]
+"362 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\var.h
+[e E15119 . `uc
+PORTUGUES 0
+INGLES 1
+TAMANHO_IDIOMA 2
+]
+"540
+[e E15139 . `uc
+NORMAL 0
+RAPIDO 1
+CONTINUO 2
+CONTINUO_PULSO 3
+TAMANHO_MODO 3
+]
+"541
+[e E15146 . `uc
+PARADO 0
+DESCENDO 1
+SOLDANDO 2
+FIXANDO 3
+ERRO_SOLDA 4
+]
+"544
+[e E15153 . `uc
+TELA_NC 0
+TELA_TMP_DESCE 1
+TELA_TMP_SOLDA 2
+TELA_TMP_JOULE 3
+TELA_TIPO_SOLDA 4
+TELA_TMP_FIXAR 5
+TELA_METAL 6
+TELA_TMP_CONT 7
+TELA_TIPO_CONT 8
+TELA_FREQ_INI 9
+TELA_TIPO_MAQU 10
+TELA_TMP_LOAD 11
+TELA_TMP_SAVE 12
+TELA_OP_TMP 13
+TELA_IDIOMA 14
+TAMANHO_MENU 14
+]
+"42 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\altoft.c
+[v ___altoft __altoft `(f  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\atan.c
+[v _atan atan `(d  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"32 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awtoft.c
+[v ___awtoft __awtoft `(f  1 e 3 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\cos.c
+[v _cos cos `(d  1 e 3 0 ]
+"492 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\doprnt.c
+[v _sprintf sprintf `(i  1 e 2 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\evalpoly.c
+[v _eval_poly eval_poly `(d  1 e 3 0 ]
+"12 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\exp.c
+[v _exp exp `(d  1 e 3 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\fabs.c
+[v _fabs fabs `(d  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\floor.c
+[v _floor floor `(d  1 e 3 0 ]
+"254 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\frexp.c
+[v _frexp frexp `(d  1 e 3 0 ]
+"277
+[v _ldexp ldexp `(d  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"56 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftge.c
+[v ___ftge __ftge `(b  1 e 0 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftneg.c
+[v ___ftneg __ftneg `(f  1 e 3 0 ]
+"18 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"44 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\fttol.c
+[v ___fttol __fttol `(l  1 e 4 0 ]
+"17 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\itoa.c
+[v _utoa utoa `(*.6uc  1 e 1 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lldiv.c
+[v ___lldiv __lldiv `(ul  1 e 4 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\llmod.c
+[v ___llmod __llmod `(ul  1 e 4 0 ]
+"35 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lltoft.c
+[v ___lltoft __lltoft `(f  1 e 3 0 ]
+"5 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\log.c
+[v _log log `(d  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+[v i1___ltdiv __ltdiv `(um  1 e 3 0 ]
+"7 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ltoa.c
+[v _ltoa ltoa `(*.6uc  1 e 1 0 ]
+"32
+[v _ultoa ultoa `(*.6uc  1 e 1 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+[v i1___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+"28 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwtoft.c
+[v ___lwtoft __lwtoft `(f  1 e 3 0 ]
+"5 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\pow.c
+[v _pow pow `(d  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\round.c
+[v _round round `(d  1 e 3 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sin.c
+[v _sin sin `(d  1 e 3 0 ]
+"9 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sprcsqrt.c
+[v _sqrt sqrt `(d  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcat.c
+[v _strcat strcat `(*.7uc  1 e 1 0 ]
+"33 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcmp.c
+[v _strcmp strcmp `(i  1 e 2 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcpy.c
+[v _strcpy strcpy `(*.7uc  1 e 1 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strlen.c
+[v _strlen strlen `(ui  1 e 2 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\trunc.c
+[v _trunc trunc `(d  1 e 3 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+[v i1___wmul __wmul `(ui  1 e 2 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul24.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+[v i1___tmul __tmul `(um  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eeread.c
+[v _eeprom_read eeprom_read `(uc  1 e 1 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eewrite.c
+[v _eeprom_write eeprom_write `(v  1 e 1 0 ]
+"18 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\eusart.c
+[v _EUSART_Initialize EUSART_Initialize `(v  1 e 1 0 ]
+"71
+[v _EUSART_Read EUSART_Read `(uc  1 e 1 0 ]
+"92
+[v _EUSART_Write EUSART_Write `(v  1 e 1 0 ]
+"126
+[v _EUSART_Transmit_ISR EUSART_Transmit_ISR `(v  1 e 1 0 ]
+"145
+[v _EUSART_Receive_ISR EUSART_Receive_ISR `(v  1 e 1 0 ]
+"165
+[v _EUSART_SetTxInterruptHandler EUSART_SetTxInterruptHandler `(v  1 e 1 0 ]
+"169
+[v _EUSART_SetRxInterruptHandler EUSART_SetRxInterruptHandler `(v  1 e 1 0 ]
+"4 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+"76
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"175
+[v _get_freq get_freq `(ui  1 e 2 0 ]
+"194
+[v _set_freq set_freq `(v  1 e 1 0 ]
+"233
+[v _ver_freq ver_freq `(uc  1 e 1 0 ]
+"246
+[v _pontencia_instantanea pontencia_instantanea `(ui  1 e 2 0 ]
+"260
+[v _ini_GERADOR ini_GERADOR `(v  1 e 1 0 ]
+"316
+[v _XC XC `(f  1 e 3 0 ]
+"321
+[v _delay delay `(v  1 e 1 0 ]
+"328
+[v _salva_EEPROM salva_EEPROM `(v  1 e 1 0 ]
+"336
+[v _carrega_EEPROM carrega_EEPROM `(ui  1 e 2 0 ]
+"344
+[v _salva_EEPROM32 salva_EEPROM32 `(v  1 e 1 0 ]
+"356
+[v _carrega_EEPROM32 carrega_EEPROM32 `(ul  1 e 4 0 ]
+"368
+[v _op_desce op_desce `(v  1 e 1 0 ]
+"432
+[v _op_solda op_solda `(v  1 e 1 0 ]
+"573
+[v _op_fixar op_fixar `(v  1 e 1 0 ]
+"686
+[v _trata_dados trata_dados `(v  1 e 1 0 ]
+"797
+[v _liberar liberar `(v  1 e 1 0 ]
+"807
+[v _trava_erro trava_erro `(v  1 e 1 0 ]
+"830
+[v _emergencia emergencia `(v  1 e 1 0 ]
+"860
+[v _config_IO_start config_IO_start `(v  1 e 1 0 ]
+"870
+[v _ISR_entrada ISR_entrada `(v  1 e 1 0 ]
+"920
+[v _entrada entrada `(ui  1 e 2 0 ]
+"925
+[v _ver_entrada ver_entrada `(v  1 e 1 0 ]
+"961
+[v _config_entrada config_entrada `(v  1 e 1 0 ]
+"996
+[v _config_saidas config_saidas `(v  1 e 1 0 ]
+"1032
+[v _clear_saida clear_saida `(v  1 e 1 0 ]
+"1046
+[v _config_maq_especial config_maq_especial `(v  1 e 1 0 ]
+"1074
+[v _config_maq config_maq `(v  1 e 1 0 ]
+"1143
+[v _config_flag_entrada config_flag_entrada `(v  1 e 1 0 ]
+"1186
+[v _config_flag_saida config_flag_saida `(v  1 e 1 0 ]
+"1221
+[v _saida saida `(v  1 e 1 0 ]
+"1231
+[v _clr clr `(v  1 e 1 0 ]
+[v i1_clr clr `(v  1 e 1 0 ]
+"1238
+[v _data data `(v  1 e 1 0 ]
+[v i1_data data `(v  1 e 1 0 ]
+"1248
+[v _load_bar load_bar `(v  1 e 1 0 ]
+"1265
+[v _teste_leds teste_leds `(v  1 e 1 0 ]
+"1278
+[v _tela_ultima_solda tela_ultima_solda `(v  1 e 1 0 ]
+"1310
+[v _tela_inicial tela_inicial `(v  1 e 1 0 ]
+"1328
+[v _totalCiclos totalCiclos `(v  1 e 1 0 ]
+"1346
+[v _rst_inversor rst_inversor `(v  1 e 1 0 ]
+"1354
+[v _salva_n_pecas salva_n_pecas `(v  1 e 1 0 ]
+"1362
+[v _teclado teclado `(uc  1 e 1 0 ]
+"1419
+[v _bip_tecla bip_tecla `(v  1 e 1 0 ]
+"1429
+[v _liberar_tecla liberar_tecla `(ui  1 e 2 0 ]
+"1456
+[v _telas telas `(v  1 e 1 0 ]
+"1775
+[v _escreve_tempos escreve_tempos `(v  1 e 1 0 ]
+"1830
+[v _addr_receitas addr_receitas `(uc  1 e 1 0 ]
+"1834
+[v _func_enter func_enter `(v  1 e 1 0 ]
+"1917
+[v _func_rst func_rst `(v  1 e 1 0 ]
+"1933
+[v _teste_pneumatico teste_pneumatico `(v  1 e 1 0 ]
+"1975
+[v _teste_US teste_US `(v  1 e 1 0 ]
+"2113
+[v _status_gerador status_gerador `(v  1 e 1 0 ]
+"2148
+[v _PWM2_Initialize PWM2_Initialize `(v  1 e 1 0 ]
+"2168
+[v _PWM2_LoadDutyValue PWM2_LoadDutyValue `(v  1 e 1 0 ]
+"2186
+[v _SMT1_Initialize SMT1_Initialize `(v  1 e 1 0 ]
+"2230
+[v _SMT1_GetCapturedPeriod SMT1_GetCapturedPeriod `(ul  1 e 4 0 ]
+"2235
+[v _SMT2_Initialize SMT2_Initialize `(v  1 e 1 0 ]
+"2284
+[v _get_duty get_duty `(uc  1 e 1 0 ]
+[v i1_get_duty get_duty `(uc  1 e 1 0 ]
+"2288
+[v _TMR1_Initialize TMR1_Initialize `(v  1 e 1 0 ]
+"2350
+[v _TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+"2372
+[v _TMR1_Reload TMR1_Reload `(v  1 e 1 0 ]
+"2377
+[v _TMR5_Initialize TMR5_Initialize `(v  1 e 1 0 ]
+"2399
+[v _TMR5_WriteTimer TMR5_WriteTimer `(v  1 e 1 0 ]
+"2404
+[v _TMR5_Reload TMR5_Reload `(v  1 e 1 0 ]
+"2408
+[v _start_timer start_timer `(v  1 e 1 0 ]
+"2414
+[v _stop_timer stop_timer `(v  1 e 1 0 ]
+[v i1_stop_timer stop_timer `(v  1 e 1 0 ]
+"2418
+[v _TMR6_Initialize TMR6_Initialize `(v  1 e 1 0 ]
+"2462
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"2481
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"2495
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+"2511
+[v _CLC1_Initialize CLC1_Initialize `(v  1 e 1 0 ]
+"2524
+[v _ADCC_Initialize ADCC_Initialize `(v  1 e 1 0 ]
+"2568
+[v _get_temp get_temp `(f  1 e 3 0 ]
+"2602
+[v _selectModo selectModo `(v  1 e 1 0 ]
+"2648
+[v _ini_ee_tempos ini_ee_tempos `(v  1 e 1 0 ]
+"2778
+[v _ciclar ciclar `(v  1 e 1 0 ]
+"2902
+[v _ciclarPneumatico ciclarPneumatico `(v  1 e 1 0 ]
+"2949
+[v _rotina_tela rotina_tela `(v  1 e 1 0 ]
+"3014
+[v _escreve_freq escreve_freq `(v  1 e 1 0 ]
+"3021
+[v _verifPagina verifPagina `(uc  1 e 1 0 ]
+"3 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\lcd.c
+[v _Lcd_Port Lcd_Port `(v  1 e 1 0 ]
+"25
+[v _Lcd_Cmd Lcd_Cmd `(v  1 e 1 0 ]
+"36
+[v _Lcd_Clear Lcd_Clear `(v  1 e 1 0 ]
+"44
+[v _Lcd_Set_Cursor Lcd_Set_Cursor `(v  1 e 1 0 ]
+"67
+[v _Lcd_Init Lcd_Init `(v  1 e 1 0 ]
+"95
+[v _Lcd_Write_Char Lcd_Write_Char `(v  1 e 1 0 ]
+"114
+[v _Lcd_Write_String Lcd_Write_String `(v  1 e 1 0 ]
+"123
+[v _Lcd_White_Center_String Lcd_White_Center_String `(v  1 e 1 0 ]
+"151
+[v _Inicia_LCD Inicia_LCD `(v  1 e 1 0 ]
+"188
+[v _escreve_LCD escreve_LCD `(v  1 e 1 0 ]
+"8 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\login.c
+[v _LoadSenhaUser LoadSenhaUser `(v  1 e 1 0 ]
+"17
+[v _LoadSenhaGerador LoadSenhaGerador `(v  1 e 1 0 ]
+"32
+[v _printTelaSenha printTelaSenha `(v  1 e 1 0 ]
+"42
+[v _printTelaEditarSenha printTelaEditarSenha `(v  1 e 1 0 ]
+"50
+[v _EditSenhaUser EditSenhaUser `(v  1 e 1 0 ]
+"123
+[v _verifSenhas verifSenhas `(uc  1 e 1 0 ]
+"129
+[v _Autenticar Autenticar `(uc  1 e 1 0 ]
+"32 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\main.c
+[v _main main `(v  1 e 1 0 ]
+[s S3485 . 1 `uc 1 C 1 0 :1:0 
+`uc 1 DC 1 0 :1:1 
+`uc 1 Z 1 0 :1:2 
+`uc 1 nPD 1 0 :1:3 
+`uc 1 nTO 1 0 :1:4 
+]
+"129 C:\Program Files (x86)\Microchip\xc8\v1.45\include\pic16f18877.h
+[s S3491 . 1 `uc 1 CARRY 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ZERO 1 0 :1:2 
+]
+[u S3495 . 1 `S3485 1 . 1 0 `S3491 1 . 1 0 ]
+[v _STATUSbits STATUSbits `VES3495  1 e 1 @3 ]
+[s S1601 . 1 `uc 1 INTEDG 1 0 :1:0 
+`uc 1 . 1 0 :5:1 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"368
+[u S1606 . 1 `S1601 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES1606  1 e 1 @11 ]
+"388
+[v _PORTA PORTA `VEuc  1 e 1 @12 ]
+"574
+[v _PORTD PORTD `VEuc  1 e 1 @15 ]
+[s S266 . 1 `uc 1 RD0 1 0 :1:0 
+`uc 1 RD1 1 0 :1:1 
+`uc 1 RD2 1 0 :1:2 
+`uc 1 RD3 1 0 :1:3 
+`uc 1 RD4 1 0 :1:4 
+`uc 1 RD5 1 0 :1:5 
+`uc 1 RD6 1 0 :1:6 
+`uc 1 RD7 1 0 :1:7 
+]
+"591
+[u S275 . 1 `S266 1 . 1 0 ]
+[v _PORTDbits PORTDbits `VES275  1 e 1 @15 ]
+"674
+[v _TRISA TRISA `VEuc  1 e 1 @17 ]
+"736
+[v _TRISB TRISB `VEuc  1 e 1 @18 ]
+[s S2924 . 1 `uc 1 TRISB0 1 0 :1:0 
+`uc 1 TRISB1 1 0 :1:1 
+`uc 1 TRISB2 1 0 :1:2 
+`uc 1 TRISB3 1 0 :1:3 
+`uc 1 TRISB4 1 0 :1:4 
+`uc 1 TRISB5 1 0 :1:5 
+`uc 1 TRISB6 1 0 :1:6 
+`uc 1 TRISB7 1 0 :1:7 
+]
+"753
+[u S2933 . 1 `S2924 1 . 1 0 ]
+[v _TRISBbits TRISBbits `VES2933  1 e 1 @18 ]
+"798
+[v _TRISC TRISC `VEuc  1 e 1 @19 ]
+"860
+[v _TRISD TRISD `VEuc  1 e 1 @20 ]
+"922
+[v _TRISE TRISE `VEuc  1 e 1 @21 ]
+"954
+[v _LATA LATA `VEuc  1 e 1 @22 ]
+"1016
+[v _LATB LATB `VEuc  1 e 1 @23 ]
+[s S400 . 1 `uc 1 LATB0 1 0 :1:0 
+`uc 1 LATB1 1 0 :1:1 
+`uc 1 LATB2 1 0 :1:2 
+`uc 1 LATB3 1 0 :1:3 
+`uc 1 LATB4 1 0 :1:4 
+`uc 1 LATB5 1 0 :1:5 
+`uc 1 LATB6 1 0 :1:6 
+`uc 1 LATB7 1 0 :1:7 
+]
+"1033
+[u S409 . 1 `S400 1 . 1 0 ]
+[v _LATBbits LATBbits `VES409  1 e 1 @23 ]
+"1078
+[v _LATC LATC `VEuc  1 e 1 @24 ]
+"1140
+[v _LATD LATD `VEuc  1 e 1 @25 ]
+[s S1391 . 1 `uc 1 LATD0 1 0 :1:0 
+`uc 1 LATD1 1 0 :1:1 
+`uc 1 LATD2 1 0 :1:2 
+`uc 1 LATD3 1 0 :1:3 
+`uc 1 LATD4 1 0 :1:4 
+`uc 1 LATD5 1 0 :1:5 
+`uc 1 LATD6 1 0 :1:6 
+`uc 1 LATD7 1 0 :1:7 
+]
+"1157
+[u S1400 . 1 `S1391 1 . 1 0 ]
+[v _LATDbits LATDbits `VES1400  1 e 1 @25 ]
+"1202
+[v _LATE LATE `VEuc  1 e 1 @26 ]
+[s S1586 . 1 `uc 1 LATE0 1 0 :1:0 
+`uc 1 LATE1 1 0 :1:1 
+`uc 1 LATE2 1 0 :1:2 
+]
+"1214
+[u S1590 . 1 `S1586 1 . 1 0 ]
+[v _LATEbits LATEbits `VES1590  1 e 1 @26 ]
+"1809
+[v _ADRESL ADRESL `VEuc  1 e 1 @140 ]
+"1829
+[v _ADRESH ADRESH `VEuc  1 e 1 @141 ]
+"2130
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @147 ]
+[s S2050 . 1 `uc 1 ADGO 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFM 1 0 :2:2 
+`uc 1 ADCS 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 ADCONT 1 0 :1:6 
+`uc 1 ADON 1 0 :1:7 
+]
+"2164
+[s S2058 . 1 `uc 1 DONE 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFRM 1 0 :2:2 
+]
+[s S2062 . 1 `uc 1 nDONE 1 0 :1:0 
+]
+[s S2064 . 1 `uc 1 GO 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFM0 1 0 :1:2 
+]
+[s S2068 . 1 `uc 1 GO_nDONE 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFRM0 1 0 :1:2 
+]
+[u S2072 . 1 `S2050 1 . 1 0 `S2058 1 . 1 0 `S2062 1 . 1 0 `S2064 1 . 1 0 `S2068 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES2072  1 e 1 @147 ]
+"2229
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @148 ]
+"2268
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @149 ]
+"2345
+[v _ADCON3 ADCON3 `VEuc  1 e 1 @150 ]
+"2416
+[v _ADSTAT ADSTAT `VEuc  1 e 1 @151 ]
+"2486
+[v _ADCLK ADCLK `VEuc  1 e 1 @152 ]
+"2544
+[v _ADACT ADACT `VEuc  1 e 1 @153 ]
+"2596
+[v _ADREF ADREF `VEuc  1 e 1 @154 ]
+"2637
+[v _ADCAP ADCAP `VEuc  1 e 1 @155 ]
+"2829
+[v _ADPCH ADPCH `VEuc  1 e 1 @158 ]
+"2957
+[v _ADRPT ADRPT `VEuc  1 e 1 @269 ]
+"3034
+[v _ADLTHL ADLTHL `VEuc  1 e 1 @270 ]
+"3104
+[v _ADLTHH ADLTHH `VEuc  1 e 1 @271 ]
+"3181
+[v _ADUTHL ADUTHL `VEuc  1 e 1 @272 ]
+"3251
+[v _ADUTHH ADUTHH `VEuc  1 e 1 @273 ]
+"3328
+[v _ADSTPTL ADSTPTL `VEuc  1 e 1 @274 ]
+"3398
+[v _ADSTPTH ADSTPTH `VEuc  1 e 1 @275 ]
+"3762
+[v _RC1REG RC1REG `VEuc  1 e 1 @281 ]
+"3816
+[v _TX1REG TX1REG `VEuc  1 e 1 @282 ]
+"3877
+[v _SP1BRGL SP1BRGL `VEuc  1 e 1 @283 ]
+"3947
+[v _SP1BRGH SP1BRGH `VEuc  1 e 1 @284 ]
+"4001
+[v _RC1STA RC1STA `VEuc  1 e 1 @285 ]
+[s S2839 . 1 `uc 1 RX9D 1 0 :1:0 
+`uc 1 OERR 1 0 :1:1 
+`uc 1 FERR 1 0 :1:2 
+`uc 1 ADDEN 1 0 :1:3 
+`uc 1 CREN 1 0 :1:4 
+`uc 1 SREN 1 0 :1:5 
+`uc 1 RX9 1 0 :1:6 
+`uc 1 SPEN 1 0 :1:7 
+]
+"4027
+[u S2848 . 1 `S2839 1 . 1 0 ]
+[v _RC1STAbits RC1STAbits `VES2848  1 e 1 @285 ]
+"4181
+[v _TX1STA TX1STA `VEuc  1 e 1 @286 ]
+[s S2817 . 1 `uc 1 TX9D 1 0 :1:0 
+`uc 1 TRMT 1 0 :1:1 
+`uc 1 BRGH 1 0 :1:2 
+`uc 1 SENDB 1 0 :1:3 
+`uc 1 SYNC 1 0 :1:4 
+`uc 1 TXEN 1 0 :1:5 
+`uc 1 TX9 1 0 :1:6 
+`uc 1 CSRC 1 0 :1:7 
+]
+"4207
+[u S2826 . 1 `S2817 1 . 1 0 ]
+[v _TX1STAbits TX1STAbits `VES2826  1 e 1 @286 ]
+"4361
+[v _BAUD1CON BAUD1CON `VEuc  1 e 1 @287 ]
+"6500
+[v _TMR1L TMR1L `VEuc  1 e 1 @524 ]
+"6670
+[v _TMR1H TMR1H `VEuc  1 e 1 @525 ]
+"6790
+[v _T1CON T1CON `VEuc  1 e 1 @526 ]
+[s S1458 . 1 `uc 1 ON 1 0 :1:0 
+`uc 1 RD16 1 0 :1:1 
+`uc 1 nSYNC 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 CKPS 1 0 :2:4 
+]
+"6821
+[s S1856 . 1 `uc 1 TMR1ON 1 0 :1:0 
+`uc 1 T1RD16 1 0 :1:1 
+`uc 1 nT1SYNC 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 T1CKPS0 1 0 :1:4 
+`uc 1 T1CKPS1 1 0 :1:5 
+]
+[s S1471 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 CKPS0 1 0 :1:4 
+`uc 1 CKPS1 1 0 :1:5 
+]
+[s S1867 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RD161 1 0 :1:1 
+]
+[u S1870 . 1 `S1458 1 . 1 0 `S1856 1 . 1 0 `S1471 1 . 1 0 `S1867 1 . 1 0 ]
+[v _T1CONbits T1CONbits `VES1870  1 e 1 @526 ]
+"6886
+[v _T1GCON T1GCON `VEuc  1 e 1 @527 ]
+"7082
+[v _T1GATE T1GATE `VEuc  1 e 1 @528 ]
+"7248
+[v _T1CLK T1CLK `VEuc  1 e 1 @529 ]
+"8294
+[v _TMR5L TMR5L `VEuc  1 e 1 @536 ]
+"8464
+[v _TMR5H TMR5H `VEuc  1 e 1 @537 ]
+"8584
+[v _T5CON T5CON `VEuc  1 e 1 @538 ]
+"8615
+[s S1464 . 1 `uc 1 TMR5ON 1 0 :1:0 
+`uc 1 T5RD16 1 0 :1:1 
+`uc 1 nT5SYNC 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 T5CKPS0 1 0 :1:4 
+`uc 1 T5CKPS1 1 0 :1:5 
+]
+[s S1475 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RD165 1 0 :1:1 
+]
+[u S1478 . 1 `S1458 1 . 1 0 `S1464 1 . 1 0 `S1471 1 . 1 0 `S1475 1 . 1 0 ]
+[v _T5CONbits T5CONbits `VES1478  1 e 1 @538 ]
+"8680
+[v _T5GCON T5GCON `VEuc  1 e 1 @539 ]
+"8876
+[v _T5GATE T5GATE `VEuc  1 e 1 @540 ]
+"9042
+[v _T5CLK T5CLK `VEuc  1 e 1 @541 ]
+[s S1659 . 1 `uc 1 C1TSEL 1 0 :2:0 
+`uc 1 C2TSEL 1 0 :2:2 
+`uc 1 C3TSEL 1 0 :2:4 
+`uc 1 C4TSEL 1 0 :2:6 
+]
+"9207
+[s S1664 . 1 `uc 1 C1TSEL0 1 0 :1:0 
+`uc 1 C1TSEL1 1 0 :1:1 
+`uc 1 C2TSEL0 1 0 :1:2 
+`uc 1 C2TSEL1 1 0 :1:3 
+`uc 1 C3TSEL0 1 0 :1:4 
+`uc 1 C3TSEL1 1 0 :1:5 
+`uc 1 C4TSEL0 1 0 :1:6 
+`uc 1 C4TSEL1 1 0 :1:7 
+]
+[u S1673 . 1 `S1659 1 . 1 0 `S1664 1 . 1 0 ]
+[v _CCPTMRS0bits CCPTMRS0bits `VES1673  1 e 1 @542 ]
+"10542
+[v _T6TMR T6TMR `VEuc  1 e 1 @664 ]
+"10580
+[v _T6PR T6PR `VEuc  1 e 1 @665 ]
+"10618
+[v _T6CON T6CON `VEuc  1 e 1 @666 ]
+[s S1908 . 1 `uc 1 OUTPS 1 0 :4:0 
+`uc 1 CKPS 1 0 :3:4 
+`uc 1 ON 1 0 :1:7 
+]
+"10654
+[s S1912 . 1 `uc 1 T6OUTPS 1 0 :4:0 
+`uc 1 T6CKPS 1 0 :3:4 
+`uc 1 T6ON 1 0 :1:7 
+]
+[s S1916 . 1 `uc 1 T6OUTPS0 1 0 :1:0 
+`uc 1 T6OUTPS1 1 0 :1:1 
+`uc 1 T6OUTPS2 1 0 :1:2 
+`uc 1 T6OUTPS3 1 0 :1:3 
+`uc 1 T6CKPS0 1 0 :1:4 
+`uc 1 T6CKPS1 1 0 :1:5 
+`uc 1 T6CKPS2 1 0 :1:6 
+]
+[s S1924 . 1 `uc 1 OUTPS0 1 0 :1:0 
+`uc 1 OUTPS1 1 0 :1:1 
+`uc 1 OUTPS2 1 0 :1:2 
+`uc 1 OUTPS3 1 0 :1:3 
+`uc 1 CKPS0 1 0 :1:4 
+`uc 1 CKPS1 1 0 :1:5 
+`uc 1 CKPS2 1 0 :1:6 
+`uc 1 TMR6ON 1 0 :1:7 
+]
+[u S1933 . 1 `S1908 1 . 1 0 `S1912 1 . 1 0 `S1916 1 . 1 0 `S1924 1 . 1 0 ]
+[v _T6CONbits T6CONbits `VES1933  1 e 1 @666 ]
+"10764
+[v _T6HLT T6HLT `VEuc  1 e 1 @667 ]
+"10892
+[v _T6CLKCON T6CLKCON `VEuc  1 e 1 @668 ]
+"11050
+[v _T6RST T6RST `VEuc  1 e 1 @669 ]
+"11407
+[v _CCPR2L CCPR2L `VEuc  1 e 1 @784 ]
+"11427
+[v _CCPR2H CCPR2H `VEuc  1 e 1 @785 ]
+"11447
+[v _CCP2CON CCP2CON `VEuc  1 e 1 @786 ]
+[s S1691 . 1 `uc 1 MODE 1 0 :4:0 
+`uc 1 FMT 1 0 :1:4 
+`uc 1 OUT 1 0 :1:5 
+`uc 1 OE 1 0 :1:6 
+`uc 1 EN 1 0 :1:7 
+]
+"11485
+[s S1697 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+`uc 1 MODE3 1 0 :1:3 
+]
+[s S1702 . 1 `uc 1 CCP2MODE 1 0 :4:0 
+`uc 1 CCP2FMT 1 0 :1:4 
+`uc 1 CCP2OUT 1 0 :1:5 
+`uc 1 CCP2OE 1 0 :1:6 
+`uc 1 CCP2EN 1 0 :1:7 
+]
+[s S1708 . 1 `uc 1 CCP2MODE0 1 0 :1:0 
+`uc 1 CCP2MODE1 1 0 :1:1 
+`uc 1 CCP2MODE2 1 0 :1:2 
+`uc 1 CCP2MODE3 1 0 :1:3 
+]
+[s S1713 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 P2M0 1 0 :1:6 
+`uc 1 P2M1 1 0 :1:7 
+]
+[u S1717 . 1 `S1691 1 . 1 0 `S1697 1 . 1 0 `S1702 1 . 1 0 `S1708 1 . 1 0 `S1713 1 . 1 0 ]
+[v _CCP2CONbits CCP2CONbits `VES1717  1 e 1 @786 ]
+"14779
+[v _SMT1CPR SMT1CPR `VEum  1 e 3 @1167 ]
+"15172
+[v _SMT1CPW SMT1CPW `VEum  1 e 3 @1170 ]
+"15565
+[v _SMT1PR SMT1PR `VEum  1 e 3 @1173 ]
+"15573
+[v _SMT1PRL SMT1PRL `VEuc  1 e 1 @1173 ]
+"15701
+[v _SMT1PRH SMT1PRH `VEuc  1 e 1 @1174 ]
+"15829
+[v _SMT1PRU SMT1PRU `VEuc  1 e 1 @1175 ]
+"15957
+[v _SMT1CON0 SMT1CON0 `VEuc  1 e 1 @1176 ]
+"16075
+[v _SMT1CON1 SMT1CON1 `VEuc  1 e 1 @1177 ]
+[s S1759 . 1 `uc 1 MODE 1 0 :4:0 
+`uc 1 . 1 0 :2:4 
+`uc 1 REPEAT 1 0 :1:6 
+`uc 1 GO 1 0 :1:7 
+]
+"16100
+[s S1764 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+`uc 1 MODE3 1 0 :1:3 
+`uc 1 . 1 0 :2:4 
+`uc 1 SMT1REPEAT 1 0 :1:6 
+`uc 1 SMT1GO 1 0 :1:7 
+]
+[s S1772 . 1 `uc 1 SMT1MODE 1 0 :4:0 
+]
+[u S1774 . 1 `S1759 1 . 1 0 `S1764 1 . 1 0 `S1772 1 . 1 0 ]
+[v _SMT1CON1bits SMT1CON1bits `VES1774  1 e 1 @1177 ]
+"16155
+[v _SMT1STAT SMT1STAT `VEuc  1 e 1 @1178 ]
+"16254
+[v _SMT1CLK SMT1CLK `VEuc  1 e 1 @1179 ]
+"16322
+[v _SMT1SIG SMT1SIG `VEuc  1 e 1 @1180 ]
+"16414
+[v _SMT1WIN SMT1WIN `VEuc  1 e 1 @1181 ]
+"16900
+[v _SMT2CPR SMT2CPR `VEum  1 e 3 @1295 ]
+"17293
+[v _SMT2CPW SMT2CPW `VEum  1 e 3 @1298 ]
+"17686
+[v _SMT2PR SMT2PR `VEum  1 e 3 @1301 ]
+"17694
+[v _SMT2PRL SMT2PRL `VEuc  1 e 1 @1301 ]
+"17822
+[v _SMT2PRH SMT2PRH `VEuc  1 e 1 @1302 ]
+"17950
+[v _SMT2PRU SMT2PRU `VEuc  1 e 1 @1303 ]
+"18078
+[v _SMT2CON0 SMT2CON0 `VEuc  1 e 1 @1304 ]
+"18196
+[v _SMT2CON1 SMT2CON1 `VEuc  1 e 1 @1305 ]
+"18221
+[s S1811 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+`uc 1 MODE3 1 0 :1:3 
+`uc 1 . 1 0 :2:4 
+`uc 1 SMT2REPEAT 1 0 :1:6 
+`uc 1 SMT2GO 1 0 :1:7 
+]
+[s S1819 . 1 `uc 1 SMT2MODE 1 0 :4:0 
+]
+[u S1821 . 1 `S1759 1 . 1 0 `S1811 1 . 1 0 `S1819 1 . 1 0 ]
+[v _SMT2CON1bits SMT2CON1bits `VES1821  1 e 1 @1305 ]
+"18276
+[v _SMT2STAT SMT2STAT `VEuc  1 e 1 @1306 ]
+"18375
+[v _SMT2CLK SMT2CLK `VEuc  1 e 1 @1307 ]
+"18443
+[v _SMT2SIG SMT2SIG `VEuc  1 e 1 @1308 ]
+"18535
+[v _SMT2WIN SMT2WIN `VEuc  1 e 1 @1309 ]
+[s S1039 . 1 `uc 1 SSP1IF 1 0 :1:0 
+`uc 1 BCL1IF 1 0 :1:1 
+`uc 1 SSP2IF 1 0 :1:2 
+`uc 1 BCL2IF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+]
+"21490
+[u S1046 . 1 `S1039 1 . 1 0 ]
+[v _PIR3bits PIR3bits `VES1046  1 e 1 @1807 ]
+[s S983 . 1 `uc 1 TMR1IF 1 0 :1:0 
+`uc 1 TMR2IF 1 0 :1:1 
+`uc 1 TMR3IF 1 0 :1:2 
+`uc 1 TMR4IF 1 0 :1:3 
+`uc 1 TMR5IF 1 0 :1:4 
+`uc 1 TMR6IF 1 0 :1:5 
+]
+"21540
+[u S990 . 1 `S983 1 . 1 0 ]
+[v _PIR4bits PIR4bits `VES990  1 e 1 @1808 ]
+[s S1299 . 1 `uc 1 SMT1IF 1 0 :1:0 
+`uc 1 SMT1PRAIF 1 0 :1:1 
+`uc 1 SMT1PWAIF 1 0 :1:2 
+`uc 1 SMT2IF 1 0 :1:3 
+`uc 1 SMT2PRAIF 1 0 :1:4 
+`uc 1 SMT2PWAIF 1 0 :1:5 
+]
+"21757
+[u S1306 . 1 `S1299 1 . 1 0 ]
+[v _PIR8bits PIR8bits `VES1306  1 e 1 @1812 ]
+[s S1144 . 1 `uc 1 INTE 1 0 :1:0 
+`uc 1 . 1 0 :3:1 
+`uc 1 IOCIE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+]
+"21805
+[u S1149 . 1 `S1144 1 . 1 0 ]
+[v _PIE0bits PIE0bits `VES1149  1 e 1 @1814 ]
+[s S1022 . 1 `uc 1 SSP1IE 1 0 :1:0 
+`uc 1 BCL1IE 1 0 :1:1 
+`uc 1 SSP2IE 1 0 :1:2 
+`uc 1 BCL2IE 1 0 :1:3 
+`uc 1 TXIE 1 0 :1:4 
+`uc 1 RCIE 1 0 :1:5 
+]
+"21912
+[u S1029 . 1 `S1022 1 . 1 0 ]
+[v _PIE3bits PIE3bits `VES1029  1 e 1 @1817 ]
+[s S966 . 1 `uc 1 TMR1IE 1 0 :1:0 
+`uc 1 TMR2IE 1 0 :1:1 
+`uc 1 TMR3IE 1 0 :1:2 
+`uc 1 TMR4IE 1 0 :1:3 
+`uc 1 TMR5IE 1 0 :1:4 
+`uc 1 TMR6IE 1 0 :1:5 
+]
+"21962
+[u S973 . 1 `S966 1 . 1 0 ]
+[v _PIE4bits PIE4bits `VES973  1 e 1 @1818 ]
+"22214
+[v _PMD0 PMD0 `VEuc  1 e 1 @1942 ]
+"22271
+[v _PMD1 PMD1 `VEuc  1 e 1 @1943 ]
+"22342
+[v _PMD2 PMD2 `VEuc  1 e 1 @1944 ]
+"22387
+[v _PMD3 PMD3 `VEuc  1 e 1 @1945 ]
+"22443
+[v _PMD4 PMD4 `VEuc  1 e 1 @1946 ]
+"22494
+[v _PMD5 PMD5 `VEuc  1 e 1 @1947 ]
+"23201
+[v _NVMADRL NVMADRL `VEuc  1 e 1 @2074 ]
+"23263
+[v _NVMADRH NVMADRH `VEuc  1 e 1 @2075 ]
+"23319
+[v _NVMDATL NVMDATL `VEuc  1 e 1 @2076 ]
+"23381
+[v _NVMDATH NVMDATH `VEuc  1 e 1 @2077 ]
+[s S3439 . 1 `uc 1 RD 1 0 :1:0 
+`uc 1 WR 1 0 :1:1 
+`uc 1 WREN 1 0 :1:2 
+`uc 1 WRERR 1 0 :1:3 
+`uc 1 FREE 1 0 :1:4 
+`uc 1 LWLO 1 0 :1:5 
+`uc 1 NVMREGS 1 0 :1:6 
+]
+"23447
+[u S3447 . 1 `S3439 1 . 1 0 ]
+[v _NVMCON1bits NVMCON1bits `VES3447  1 e 1 @2078 ]
+"23487
+[v _NVMCON2 NVMCON2 `VEuc  1 e 1 @2079 ]
+"23551
+[v _OSCCON1 OSCCON1 `VEuc  1 e 1 @2189 ]
+"23691
+[v _OSCCON3 OSCCON3 `VEuc  1 e 1 @2191 ]
+"23788
+[v _OSCEN OSCEN `VEuc  1 e 1 @2193 ]
+"23839
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @2194 ]
+"23897
+[v _OSCFRQ OSCFRQ `VEuc  1 e 1 @2195 ]
+[s S2022 . 1 `uc 1 ADFVR 1 0 :2:0 
+`uc 1 CDAFVR 1 0 :2:2 
+`uc 1 TSRNG 1 0 :1:4 
+`uc 1 TSEN 1 0 :1:5 
+`uc 1 FVRRDY 1 0 :1:6 
+`uc 1 FVREN 1 0 :1:7 
+]
+"24292
+[s S2029 . 1 `uc 1 ADFVR0 1 0 :1:0 
+`uc 1 ADFVR1 1 0 :1:1 
+`uc 1 CDAFVR0 1 0 :1:2 
+`uc 1 CDAFVR1 1 0 :1:3 
+]
+[u S2034 . 1 `S2022 1 . 1 0 `S2029 1 . 1 0 ]
+[v _FVRCONbits FVRCONbits `VES2034  1 e 1 @2316 ]
+"25186
+[v _CLC1CON CLC1CON `VEuc  1 e 1 @7696 ]
+"25304
+[v _CLC1POL CLC1POL `VEuc  1 e 1 @7697 ]
+"25382
+[v _CLC1SEL0 CLC1SEL0 `VEuc  1 e 1 @7698 ]
+"25510
+[v _CLC1SEL1 CLC1SEL1 `VEuc  1 e 1 @7699 ]
+"25638
+[v _CLC1SEL2 CLC1SEL2 `VEuc  1 e 1 @7700 ]
+"25766
+[v _CLC1SEL3 CLC1SEL3 `VEuc  1 e 1 @7701 ]
+"25894
+[v _CLC1GLS0 CLC1GLS0 `VEuc  1 e 1 @7702 ]
+"26006
+[v _CLC1GLS1 CLC1GLS1 `VEuc  1 e 1 @7703 ]
+"26118
+[v _CLC1GLS2 CLC1GLS2 `VEuc  1 e 1 @7704 ]
+"26230
+[v _CLC1GLS3 CLC1GLS3 `VEuc  1 e 1 @7705 ]
+[s S1179 . 1 `uc 1 CCP1PPS 1 0 :5:0 
+]
+"30407
+[s S1181 . 1 `uc 1 CCP1PPS0 1 0 :1:0 
+`uc 1 CCP1PPS1 1 0 :1:1 
+`uc 1 CCP1PPS2 1 0 :1:2 
+`uc 1 CCP1PPS3 1 0 :1:3 
+`uc 1 CCP1PPS4 1 0 :1:4 
+]
+[u S1187 . 1 `S1179 1 . 1 0 `S1181 1 . 1 0 ]
+[v _CCP1PPSbits CCP1PPSbits `VES1187  1 e 1 @7841 ]
+[s S1219 . 1 `uc 1 SMT1WINPPS 1 0 :5:0 
+]
+"30673
+[s S1221 . 1 `uc 1 SMU1WINPPS0 1 0 :1:0 
+`uc 1 SMU1WINPPS1 1 0 :1:1 
+`uc 1 SMU1WINPPS2 1 0 :1:2 
+`uc 1 SMU1WINPPS3 1 0 :1:3 
+`uc 1 SMU1WINPPS4 1 0 :1:4 
+]
+[u S1227 . 1 `S1219 1 . 1 0 `S1221 1 . 1 0 ]
+[v _SMT1WINPPSbits SMT1WINPPSbits `VES1227  1 e 1 @7849 ]
+[s S1199 . 1 `uc 1 SMT1SIGPPS 1 0 :5:0 
+]
+"30725
+[s S1201 . 1 `uc 1 SMU1SIGPPS0 1 0 :1:0 
+`uc 1 SMU1SIGPPS1 1 0 :1:1 
+`uc 1 SMU1SIGPPS2 1 0 :1:2 
+`uc 1 SMU1SIGPPS3 1 0 :1:3 
+`uc 1 SMU1SIGPPS4 1 0 :1:4 
+]
+[u S1207 . 1 `S1199 1 . 1 0 `S1201 1 . 1 0 ]
+[v _SMT1SIGPPSbits SMT1SIGPPSbits `VES1207  1 e 1 @7850 ]
+[s S1259 . 1 `uc 1 SMT2WINPPS 1 0 :5:0 
+]
+"30777
+[s S1261 . 1 `uc 1 SMU2WINPPS0 1 0 :1:0 
+`uc 1 SMU2WINPPS1 1 0 :1:1 
+`uc 1 SMU2WINPPS2 1 0 :1:2 
+`uc 1 SMU2WINPPS3 1 0 :1:3 
+`uc 1 SMU2WINPPS4 1 0 :1:4 
+]
+[u S1267 . 1 `S1259 1 . 1 0 `S1261 1 . 1 0 ]
+[v _SMT2WINPPSbits SMT2WINPPSbits `VES1267  1 e 1 @7851 ]
+[s S1239 . 1 `uc 1 SMT2SIGPPS 1 0 :5:0 
+]
+"30829
+[s S1241 . 1 `uc 1 SMU2SIGPPS0 1 0 :1:0 
+`uc 1 SMU2SIGPPS1 1 0 :1:1 
+`uc 1 SMU2SIGPPS2 1 0 :1:2 
+`uc 1 SMU2SIGPPS3 1 0 :1:3 
+`uc 1 SMU2SIGPPS4 1 0 :1:4 
+]
+[u S1247 . 1 `S1239 1 . 1 0 `S1241 1 . 1 0 ]
+[v _SMT2SIGPPSbits SMT2SIGPPSbits `VES1247  1 e 1 @7852 ]
+[s S1279 . 1 `uc 1 CLCIN0PPS0 1 0 :1:0 
+`uc 1 CLCIN0PPS1 1 0 :1:1 
+`uc 1 CLCIN0PPS2 1 0 :1:2 
+`uc 1 CLCIN0PPS3 1 0 :1:3 
+`uc 1 CLCIN0PPS4 1 0 :1:4 
+]
+"31193
+[s S1285 . 1 `uc 1 CLCIN0PPS 1 0 :5:0 
+]
+[u S1287 . 1 `S1279 1 . 1 0 `S1285 1 . 1 0 ]
+[v _CLCIN0PPSbits CLCIN0PPSbits `VES1287  1 e 1 @7867 ]
+[s S1157 . 1 `uc 1 RXPPS0 1 0 :1:0 
+`uc 1 RXPPS1 1 0 :1:1 
+`uc 1 RXPPS2 1 0 :1:2 
+`uc 1 RXPPS3 1 0 :1:3 
+`uc 1 RXPPS4 1 0 :1:4 
+]
+"31765
+[s S1163 . 1 `uc 1 RXPPS 1 0 :5:0 
+]
+[u S1165 . 1 `S1157 1 . 1 0 `S1163 1 . 1 0 ]
+[v _RXPPSbits RXPPSbits `VES1165  1 e 1 @7883 ]
+"32702
+[v _RC1PPS RC1PPS `VEuc  1 e 1 @7969 ]
+"32952
+[v _RC6PPS RC6PPS `VEuc  1 e 1 @7974 ]
+"33602
+[v _ANSELA ANSELA `VEuc  1 e 1 @7992 ]
+"33664
+[v _WPUA WPUA `VEuc  1 e 1 @7993 ]
+"33726
+[v _ODCONA ODCONA `VEuc  1 e 1 @7994 ]
+[s S1123 . 1 `uc 1 IOCAP0 1 0 :1:0 
+`uc 1 IOCAP1 1 0 :1:1 
+`uc 1 IOCAP2 1 0 :1:2 
+`uc 1 IOCAP3 1 0 :1:3 
+`uc 1 IOCAP4 1 0 :1:4 
+`uc 1 IOCAP5 1 0 :1:5 
+`uc 1 IOCAP6 1 0 :1:6 
+`uc 1 IOCAP7 1 0 :1:7 
+]
+"33929
+[u S1132 . 1 `S1123 1 . 1 0 ]
+"33929
+"33929
+[v _IOCAPbits IOCAPbits `VES1132  1 e 1 @7997 ]
+[s S1102 . 1 `uc 1 IOCAN0 1 0 :1:0 
+`uc 1 IOCAN1 1 0 :1:1 
+`uc 1 IOCAN2 1 0 :1:2 
+`uc 1 IOCAN3 1 0 :1:3 
+`uc 1 IOCAN4 1 0 :1:4 
+`uc 1 IOCAN5 1 0 :1:5 
+`uc 1 IOCAN6 1 0 :1:6 
+`uc 1 IOCAN7 1 0 :1:7 
+]
+"33991
+[u S1111 . 1 `S1102 1 . 1 0 ]
+"33991
+"33991
+[v _IOCANbits IOCANbits `VES1111  1 e 1 @7998 ]
+[s S1081 . 1 `uc 1 IOCAF0 1 0 :1:0 
+`uc 1 IOCAF1 1 0 :1:1 
+`uc 1 IOCAF2 1 0 :1:2 
+`uc 1 IOCAF3 1 0 :1:3 
+`uc 1 IOCAF4 1 0 :1:4 
+`uc 1 IOCAF5 1 0 :1:5 
+`uc 1 IOCAF6 1 0 :1:6 
+`uc 1 IOCAF7 1 0 :1:7 
+]
+"34053
+[u S1090 . 1 `S1081 1 . 1 0 ]
+"34053
+"34053
+[v _IOCAFbits IOCAFbits `VES1090  1 e 1 @7999 ]
+"34222
+[v _ANSELB ANSELB `VEuc  1 e 1 @8003 ]
+"34284
+[v _WPUB WPUB `VEuc  1 e 1 @8004 ]
+"34346
+[v _ODCONB ODCONB `VEuc  1 e 1 @8005 ]
+"34842
+[v _ANSELC ANSELC `VEuc  1 e 1 @8014 ]
+"34904
+[v _WPUC WPUC `VEuc  1 e 1 @8015 ]
+"34966
+[v _ODCONC ODCONC `VEuc  1 e 1 @8016 ]
+"35462
+[v _ANSELD ANSELD `VEuc  1 e 1 @8025 ]
+"35524
+[v _WPUD WPUD `VEuc  1 e 1 @8026 ]
+"35586
+[v _ODCOND ODCOND `VEuc  1 e 1 @8027 ]
+"35896
+[v _ANSELE ANSELE `VEuc  1 e 1 @8036 ]
+"35928
+[v _WPUE WPUE `VEuc  1 e 1 @8037 ]
+"35966
+[v _ODCONE ODCONE `VEuc  1 e 1 @8038 ]
+"42034
+[v _WR WR `VEb  1 e 0 @16625 ]
+"354 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\doprnt.c
+[v _dpowers dpowers `DC[5]ui  1 s 10 dpowers ]
+"3 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\errno.c
+[v _errno errno `i  1 e 2 0 ]
+"5 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\eusart.c
+[v _eusartTxHead eusartTxHead `VEuc  1 e 1 0 ]
+"6
+[v _eusartTxTail eusartTxTail `VEuc  1 e 1 0 ]
+"7
+[v _eusartTxBuffer eusartTxBuffer `VE[32]uc  1 e 32 0 ]
+"8
+[v _eusartTxBufferRemaining eusartTxBufferRemaining `VEuc  1 e 1 0 ]
+"10
+[v _eusartRxHead eusartRxHead `VEuc  1 e 1 0 ]
+"11
+[v _eusartRxTail eusartRxTail `VEuc  1 e 1 0 ]
+"12
+[v _eusartRxBuffer eusartRxBuffer `VE[32]uc  1 e 32 0 ]
+"13
+[v _eusartRxCount eusartRxCount `VEuc  1 e 1 0 ]
+"10 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\eusart.h
+[v _EUSART_TxDefaultInterruptHandler EUSART_TxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
+"11
+[v _EUSART_RxDefaultInterruptHandler EUSART_RxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
+"4 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\login.c
+[v _senha_padrao senha_padrao `DC[5]uc  1 e 5 0 ]
+"5
+[v _senha_gerador senha_gerador `[5]uc  1 e 5 0 ]
+"6
+[v _senha_user senha_user `[5]uc  1 e 5 0 ]
+[s S19 . 3 `uc 1 emergencia 1 0 :1:0 
+`uc 1 aciona1 1 0 :1:1 
+`uc 1 aciona2 1 0 :1:2 
+`uc 1 pne_sobe 1 0 :1:3 
+`uc 1 pne_desce 1 0 :1:4 
+`uc 1 sensor_hold 1 0 :1:5 
+`uc 1 sensor_pne_av 1 0 :1:6 
+`uc 1 sensor_pne_rc 1 0 :1:7 
+`uc 1 sensor_peca 1 1 :1:0 
+`uc 1 solda_cont 1 1 :1:1 
+`uc 1 trava_erro 1 1 :1:2 
+`uc 1 reset 1 1 :1:3 
+`uc 1 metal 1 1 :1:4 
+`uc 1 status_out 1 1 :1:5 
+`uc 1 status_hf 1 1 :1:6 
+`uc 1 rst_inv 1 1 :1:7 
+`uc 1 stop_release 1 2 :1:0 
+`uc 1 energ_erro 1 2 :1:1 
+]
+"236 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\var.h
+[u S38 . 4 `ul 1 value 4 0 `S19 1 . 3 0 ]
+[v _cfg cfg `S38  1 e 4 0 ]
+[s S41 . 3 `VEuc 1 energia 1 0 :1:0 
+`VEuc 1 energiaErro 1 0 :1:1 
+`VEuc 1 regressivo 1 0 :1:2 
+`VEuc 1 sussess 1 0 :1:3 
+`VEuc 1 inicia 1 0 :1:4 
+`VEuc 1 US 1 0 :1:5 
+`VEuc 1 abortar 1 0 :1:6 
+`VEuc 1 isr_pot 1 0 :1:7 
+`VEuc 1 tela 1 1 :1:0 
+`VEuc 1 muda_tela 1 1 :1:1 
+`VEuc 1 muda_valor 1 1 :1:2 
+`VEuc 1 salvar 1 1 :1:3 
+`VEuc 1 rapido 1 1 :1:4 
+`VEuc 1 zero_cont 1 1 :1:5 
+`VEuc 1 teste 1 1 :1:6 
+`VEuc 1 inatividade 1 1 :1:7 
+`VEuc 1 metal 1 2 :1:0 
+]
+"259
+[u S59 . 4 `VEul 1 value 4 0 `VES41 1 . 3 0 ]
+[v _flag flag `VES59  1 e 4 0 ]
+[s S62 . 2 `VEuc 1 emerg 1 0 :1:0 
+`VEuc 1 aciona1 1 0 :1:1 
+`VEuc 1 aciona2 1 0 :1:2 
+`VEuc 1 sobrecarga 1 0 :1:3 
+`VEuc 1 liberar 1 0 :1:4 
+`VEuc 1 sensor_presenca 1 0 :1:5 
+`VEuc 1 sensor_pne_av 1 0 :1:6 
+`VEuc 1 sensor_pne_rc 1 0 :1:7 
+`VEuc 1 sensor_hold 1 1 :1:0 
+`VEuc 1 liberado 1 1 :1:1 
+`VEuc 1 metal 1 1 :1:2 
+]
+"276
+[u S74 . 2 `VEui 1 value 2 0 `VES62 1 . 2 0 ]
+[v _flag_in flag_in `VES74  1 e 2 0 ]
+[s S77 . 1 `VEuc 1 HF 1 0 :1:0 
+`VEuc 1 OVL 1 0 :1:1 
+`VEuc 1 ERR 1 0 :1:2 
+]
+"286
+[u S81 . 1 `VEuc 1 value 1 0 `VES77 1 . 1 0 ]
+[v _led led `VES81  1 e 1 0 ]
+[s S84 . 2 `VEuc 1 POT10 1 0 :1:0 
+`VEuc 1 POT20 1 0 :1:1 
+`VEuc 1 POT30 1 0 :1:2 
+`VEuc 1 POT40 1 0 :1:3 
+`VEuc 1 POT50 1 0 :1:4 
+`VEuc 1 POT60 1 0 :1:5 
+`VEuc 1 POT70 1 0 :1:6 
+`VEuc 1 POT80 1 0 :1:7 
+`VEuc 1 POT90 1 1 :1:0 
+`VEuc 1 POT100 1 1 :1:1 
+]
+"302
+[u S95 . 2 `VEui 1 value 2 0 `VES84 1 . 2 0 ]
+[v _bar bar `VES95  1 e 2 0 ]
+[s S98 . 4 `VEui 1 int0 2 0 `VEui 1 int1 2 2 ]
+"316
+[s S101 . 4 `VEuc 1 byte0 1 0 `VEuc 1 byte1 1 1 `VEuc 1 byte2 1 2 `VEuc 1 byte3 1 3 ]
+[u S106 . 4 `VEul 1 value 4 0 `VES98 1 . 4 0 `VES101 1 . 4 0 ]
+[v _ee ee `VES106  1 e 4 0 ]
+[s S110 . 2 `VEuc 1 byte0 1 0 :8:0 
+`VEuc 1 byte1 1 1 :8:0 
+]
+"325
+[u S113 . 2 `VEui 1 duty 2 0 `VES110 1 . 2 0 ]
+[v _PWM PWM `VES113  1 e 2 0 ]
+[s S116 . 1 `VEuc 1 press 1 0 :1:0 
+`VEuc 1 release 1 0 :1:1 
+`VEuc 1 hold 1 0 :1:2 
+`VEuc 1 exe 1 0 :1:3 
+`VEuc 1 b4 1 0 :1:4 
+`VEuc 1 b5 1 0 :1:5 
+`VEuc 1 bi_ok 1 0 :1:6 
+`VEuc 1 timer 1 0 :1:7 
+]
+"339
+[u S125 . 1 `VEuc 1 byte 1 0 `VES116 1 . 1 0 ]
+[v _btt btt `VES125  1 e 1 0 ]
+[s S128 . 2 `VEuc 1 ccpr1l 1 0 `VEuc 1 ccpr1h 1 1 ]
+"347
+[u S131 . 2 `VEui 1 data 2 0 `VES128 1 . 2 0 ]
+[v _periodo1 periodo1 `VES131  1 e 2 0 ]
+"354
+[v _periodo2 periodo2 `VES131  1 e 2 0 ]
+"356
+[v _Sonitron_str Sonitron_str `DC[14]uc  1 e 14 0 ]
+"357
+[v _freq_str freq_str `DC[8]uc  1 e 8 0 ]
+"358
+[v _freq_ini_str freq_ini_str `DC[13]uc  1 e 13 0 ]
+"362
+[v _n_pecas_str n_pecas_str `DC[2][17]uc  1 e 34 0 ]
+"365
+[v _descida_str descida_str `DC[2][17]uc  1 e 34 0 ]
+"366
+[v _solda_str solda_str `DC[2][17]uc  1 e 34 0 ]
+"367
+[v _joule_str joule_str `DC[2][17]uc  1 e 34 0 ]
+"368
+[v _ctrl_solda_str ctrl_solda_str `DC[2][17]uc  1 e 34 0 ]
+"369
+[v _ctrl_pecas_str ctrl_pecas_str `DC[2][17]uc  1 e 34 0 ]
+"370
+[v _fixacao_str fixacao_str `DC[2][17]uc  1 e 34 0 ]
+"371
+[v _metal_str metal_str `DC[2][17]uc  1 e 34 0 ]
+"372
+[v _tipo_maquina_str tipo_maquina_str `DC[2][17]uc  1 e 34 0 ]
+"373
+[v _modo_op_str modo_op_str `DC[2][17]uc  1 e 34 0 ]
+"374
+[v _modo_normal_str modo_normal_str `DC[2][17]uc  1 e 34 0 ]
+"375
+[v _modo_rapido_str modo_rapido_str `DC[2][17]uc  1 e 34 0 ]
+"376
+[v _modo_contnuo_str modo_contnuo_str `DC[2][17]uc  1 e 34 0 ]
+"377
+[v _modo_contByPulse_str modo_contByPulse_str `DC[2][17]uc  1 e 34 0 ]
+"378
+[v _cont_pecas_str cont_pecas_str `DC[2][17]uc  1 e 34 0 ]
+"379
+[v _salva_str salva_str `DC[2][17]uc  1 e 34 0 ]
+"380
+[v _receita_salva_str receita_salva_str `DC[2][17]uc  1 e 34 0 ]
+"381
+[v _receita_carreg_str receita_carreg_str `DC[2][17]uc  1 e 34 0 ]
+"382
+[v _carrega_str carrega_str `DC[2][17]uc  1 e 34 0 ]
+"385
+[v _valor_a_str valor_a_str `DC[2][17]uc  1 e 34 0 ]
+"386
+[v _descendo_str descendo_str `DC[2][17]uc  1 e 34 0 ]
+"387
+[v _process_str process_str `DC[2][17]uc  1 e 34 0 ]
+"388
+[v _fixando_str fixando_str `DC[2][17]uc  1 e 34 0 ]
+"389
+[v _aguarde_str aguarde_str `DC[2][17]uc  1 e 34 0 ]
+"390
+[v _solda_cont_str solda_cont_str `DC[2][17]uc  1 e 34 0 ]
+"394
+[v _emergencia_str emergencia_str `DC[2][17]uc  1 e 34 0 ]
+"395
+[v _emerg2_str emerg2_str `DC[2][17]uc  1 e 34 0 ]
+"396
+[v _teste_US1_str teste_US1_str `DC[2][17]uc  1 e 34 0 ]
+"397
+[v _teste_PN1_str teste_PN1_str `DC[2][17]uc  1 e 34 0 ]
+"399
+[v _Sai_enter_str Sai_enter_str `DC[2][17]uc  1 e 34 0 ]
+"400
+[v _erro_str erro_str `DC[2][17]uc  1 e 34 0 ]
+"401
+[v _erro_ovl_str erro_ovl_str `DC[2][17]uc  1 e 34 0 ]
+"402
+[v _erro_inv_str erro_inv_str `DC[2][17]uc  1 e 34 0 ]
+"403
+[v _zero_cont_str zero_cont_str `DC[2][17]uc  1 e 34 0 ]
+"404
+[v _idioma_str idioma_str `DC[2][17]uc  1 e 34 0 ]
+"405
+[v _tipo_idioma_str tipo_idioma_str `DC[2][17]uc  1 e 34 0 ]
+"406
+[v _tipo_energia_str tipo_energia_str `DC[2][17]uc  1 e 34 0 ]
+"407
+[v _tipo_tempo_str tipo_tempo_str `DC[2][17]uc  1 e 34 0 ]
+"408
+[v _tipo_regress_str tipo_regress_str `DC[2][17]uc  1 e 34 0 ]
+"409
+[v _tipo_progress_str tipo_progress_str `DC[2][17]uc  1 e 34 0 ]
+"410
+[v _tipo_maquina1_str tipo_maquina1_str `DC[2][17]uc  1 e 34 0 ]
+"411
+[v _tipo_maquina2_str tipo_maquina2_str `DC[2][17]uc  1 e 34 0 ]
+"412
+[v _tipo_maquina3_str tipo_maquina3_str `DC[2][17]uc  1 e 34 0 ]
+"413
+[v _energia_str energia_str `DC[2][17]uc  1 e 34 0 ]
+"414
+[v _tempo_str tempo_str `DC[2][17]uc  1 e 34 0 ]
+"417
+[v _erro_energia_str erro_energia_str `DC[2][17]uc  1 e 34 0 ]
+"418
+[v _energia_low_str energia_low_str `DC[2][17]uc  1 e 34 0 ]
+"419
+[v _tempo_ovf_str tempo_ovf_str `DC[2][17]uc  1 e 34 0 ]
+"421
+[v _menu_senha_str menu_senha_str `DC[2][17]uc  1 e 34 0 ]
+"422
+[v _edit_senha_str edit_senha_str `DC[2][17]uc  1 e 34 0 ]
+"423
+[v _erro_senha_str erro_senha_str `DC[2][17]uc  1 e 34 0 ]
+"425
+[v _str str `[20]uc  1 e 20 0 ]
+[v _str1 str1 `[20]uc  1 e 20 0 ]
+[v _str2 str2 `[20]uc  1 e 20 0 ]
+"427
+[v _t1ms_ISR t1ms_ISR `ui  1 e 2 0 ]
+"428
+[v _t1msMM_ISR t1msMM_ISR `ui  1 e 2 0 ]
+"429
+[v _t1ms_OP t1ms_OP `ui  1 e 2 0 ]
+"430
+[v _t1ms_solda t1ms_solda `ui  1 e 2 0 ]
+"432
+[v _t10ms t10ms `ui  1 e 2 0 ]
+"433
+[v _t10ms_global t10ms_global `ui  1 e 2 0 ]
+"435
+[v _amostras amostras `ui  1 e 2 0 ]
+"436
+[v _tInatividade tInatividade `ui  1 e 2 0 ]
+"437
+[v _t5min t5min `ui  1 e 2 0 ]
+"438
+[v _t1s t1s `[4]uc  1 e 4 0 ]
+"439
+[v _t_tela t_tela `uc  1 e 1 0 ]
+"440
+[v _troca_tela troca_tela `uc  1 e 1 0 ]
+"441
+[v _ciclador ciclador `uc  1 e 1 0 ]
+"442
+[v _tipo_maquina tipo_maquina `uc  1 e 1 0 ]
+"444
+[v _in in `[8]uc  1 e 8 0 ]
+[v _out out `[8]uc  1 e 8 0 ]
+"445
+[v _byte_in byte_in `[8]uc  1 e 8 0 ]
+[v _byte_out byte_out `[8]uc  1 e 8 0 ]
+"446
+[v _erro erro `uc  1 e 1 0 ]
+"448
+[v _tmp_desce tmp_desce `ui  1 e 2 0 ]
+"449
+[v _tmp_solda tmp_solda `ui  1 e 2 0 ]
+"450
+[v _ener_solda ener_solda `ui  1 e 2 0 ]
+"451
+[v _tmp_fixar tmp_fixar `ui  1 e 2 0 ]
+"452
+[v _tmp_metal tmp_metal `ui  1 e 2 0 ]
+"455
+[v _tmp_soma tmp_soma `ui  1 e 2 0 ]
+"457
+[v _cont_pecas cont_pecas `ul  1 e 4 0 ]
+"458
+[v _n_pecas n_pecas `ul  1 e 4 0 ]
+"459
+[v _n_pecas_l n_pecas_l `ul  1 e 4 0 ]
+"460
+[v _t100ms_solda t100ms_solda `ul  1 e 4 0 ]
+"461
+[v _t100ms_solda_cont t100ms_solda_cont `ul  1 e 4 0 ]
+"462
+[v _t1ms_solda_acum t1ms_solda_acum `ul  1 e 4 0 ]
+"464
+[v _duty duty `uc  1 e 1 0 ]
+"465
+[v _duty_ini duty_ini `uc  1 e 1 0 ]
+"468
+[v _pot_inst pot_inst `ui  1 e 2 0 ]
+"469
+[v _energia_total energia_total `ui  1 e 2 0 ]
+"470
+[v _energia_total_kJ energia_total_kJ `ui  1 e 2 0 ]
+"472
+[v _potencia potencia `ui  1 e 2 0 ]
+"473
+[v _ret_pot ret_pot `ui  1 e 2 0 ]
+"474
+[v _mod_pot mod_pot `ui  1 e 2 0 ]
+"476
+[v _freq_gerador freq_gerador `ui  1 e 2 0 ]
+"477
+[v _freq_inicial freq_inicial `ui  1 e 2 0 ]
+"478
+[v _freq_atual freq_atual `ui  1 e 2 0 ]
+"479
+[v _freq_atual_arr freq_atual_arr `[100]ui  1 e 200 @12072 ]
+"481
+[v _limite_24 limite_24 `ui  1 e 2 0 ]
+"482
+[v _limite_16 limite_16 `ui  1 e 2 0 ]
+"483
+[v _limite_22 limite_22 `ui  1 e 2 0 ]
+"484
+[v _limite_17 limite_17 `ui  1 e 2 0 ]
+"488
+[v _timer1ReloadVal timer1ReloadVal `VEui  1 e 2 0 ]
+"489
+[v _timer5ReloadVal timer5ReloadVal `VEui  1 e 2 0 ]
+"490
+[v _erro_sobrecarga erro_sobrecarga `VEuc  1 e 1 0 ]
+"493
+[v _k_temp k_temp `f  1 e 3 0 ]
+"532
+[v _modelo_str modelo_str `DC[5][8]uc  1 e 40 0 ]
+"540
+[v _modo modo `E15139  1 e 1 0 ]
+"541
+[v _statusSolda statusSolda `E15146  1 e 1 0 ]
+"543
+[v _idioma idioma `E15119  1 e 1 0 ]
+"544
+[v _pagina pagina `VEuc  1 e 1 0 ]
+"546
+[v _num num `ul  1 e 4 0 ]
+"32 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"215
+[v main@ii ii `uc  1 a 1 45 ]
+"207
+[v main@i i `uc  1 a 1 44 ]
+"151
+[v main@bt bt `uc  1 a 1 47 ]
+"152
+[v main@senha_OK senha_OK `uc  1 a 1 43 ]
+"36
+[v main@gerador gerador `E15131  1 a 1 46 ]
+"35
+[v main@tipo tipo `E15124  1 a 1 40 ]
+"34
+[v main@t_amb t_amb `DCf  1 s 3 t_amb ]
+"255
+} 0
+"1933 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _teste_pneumatico teste_pneumatico `(v  1 e 1 0 ]
+{
+[v teste_pneumatico@b b `uc  1 a 1 wreg ]
+"1938
+[v teste_pneumatico@bt bt `uc  1 a 1 29 ]
+"1933
+[v teste_pneumatico@b b `uc  1 a 1 wreg ]
+[v teste_pneumatico@b b `uc  1 a 1 28 ]
+"1973
+} 0
+"1265
+[v _teste_leds teste_leds `(v  1 e 1 0 ]
+{
+"1270
+[v teste_leds@i i `uc  1 a 1 16 ]
+"1266
+[v teste_leds@temp temp `uc  1 a 1 15 ]
+"1276
+} 0
+"1238
+[v _data data `(v  1 e 1 0 ]
+{
+[v data@b b `ui  1 p 2 11 ]
+"1246
+} 0
+"1231
+[v _clr clr `(v  1 e 1 0 ]
+{
+"1236
+} 0
+"1975
+[v _teste_US teste_US `(v  1 e 1 0 ]
+{
+[v teste_US@b b `uc  1 a 1 wreg ]
+"1989
+[v teste_US@conta_erro conta_erro `uc  1 a 1 30 ]
+"1978
+[v teste_US@bt bt `uc  1 a 1 29 ]
+"1975
+[v teste_US@b b `uc  1 a 1 wreg ]
+[v teste_US@b b `uc  1 a 1 28 ]
+"2111
+} 0
+"797
+[v _liberar liberar `(v  1 e 1 0 ]
+{
+"805
+} 0
+"830
+[v _emergencia emergencia `(v  1 e 1 0 ]
+{
+"831
+[v emergencia@bt bt `uc  1 a 1 23 ]
+"858
+} 0
+"2949
+[v _rotina_tela rotina_tela `(v  1 e 1 0 ]
+{
+"2950
+[v rotina_tela@bt bt `uc  1 s 1 bt ]
+"3012
+} 0
+"1456
+[v _telas telas `(v  1 e 1 0 ]
+{
+[v telas@b b `uc  1 a 1 wreg ]
+[v telas@b b `uc  1 a 1 wreg ]
+"1457
+[v telas@ee_addr ee_addr `uc  1 s 1 ee_addr ]
+"1458
+[v telas@temp temp `l  1 s 4 temp ]
+"1456
+[v telas@b b `uc  1 a 1 16 ]
+"1773
+} 0
+"3021
+[v _verifPagina verifPagina `(uc  1 e 1 0 ]
+{
+[v verifPagina@pag pag `uc  1 a 1 wreg ]
+"3022
+[v verifPagina@ok ok `uc  1 a 1 13 ]
+"3021
+[v verifPagina@pag pag `uc  1 a 1 wreg ]
+[v verifPagina@bt_local bt_local `uc  1 p 1 11 ]
+[v verifPagina@pag pag `uc  1 a 1 14 ]
+"3075
+} 0
+"1328
+[v _totalCiclos totalCiclos `(v  1 e 1 0 ]
+{
+"1344
+} 0
+"1775
+[v _escreve_tempos escreve_tempos `(v  1 e 1 0 ]
+{
+[v escreve_tempos@s1 s1 `*.25DCuc  1 p 2 51 ]
+[v escreve_tempos@t t `ui  1 p 2 53 ]
+[v escreve_tempos@pag pag `uc  1 p 1 55 ]
+"1828
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcpy.c
+[v _strcpy strcpy `(*.7uc  1 e 1 0 ]
+{
+[v strcpy@to to `*.7uc  1 a 1 wreg ]
+"15
+[v strcpy@cp cp `*.7uc  1 a 1 20 ]
+"8
+[v strcpy@to to `*.7uc  1 a 1 wreg ]
+[v strcpy@from from `*.25DCuc  1 p 2 17 ]
+"18
+[v strcpy@to to `*.7uc  1 a 1 21 ]
+"24
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcat.c
+[v _strcat strcat `(*.7uc  1 e 1 0 ]
+{
+[v strcat@to to `*.7uc  1 a 1 wreg ]
+"15
+[v strcat@cp cp `*.7uc  1 a 1 20 ]
+"8
+[v strcat@to to `*.7uc  1 a 1 wreg ]
+[v strcat@from from `*.26DCuc  1 p 2 17 ]
+"18
+[v strcat@to to `*.7uc  1 a 1 21 ]
+"26
+} 0
+"1074 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _config_maq config_maq `(v  1 e 1 0 ]
+{
+[v config_maq@x x `E15124  1 a 1 wreg ]
+"1079
+[v config_maq@i_2523 i `uc  1 a 1 20 ]
+"1075
+[v config_maq@i i `uc  1 a 1 19 ]
+"1074
+[v config_maq@x x `E15124  1 a 1 wreg ]
+[v config_maq@x x `E15124  1 a 1 18 ]
+"1141
+} 0
+"1830
+[v _addr_receitas addr_receitas `(uc  1 e 1 0 ]
+{
+[v addr_receitas@addr addr `uc  1 a 1 wreg ]
+[v addr_receitas@addr addr `uc  1 a 1 wreg ]
+[v addr_receitas@tempo tempo `uc  1 p 1 11 ]
+[v addr_receitas@addr addr `uc  1 a 1 13 ]
+"1832
+} 0
+"2648
+[v _ini_ee_tempos ini_ee_tempos `(v  1 e 1 0 ]
+{
+"2662
+[v ini_ee_tempos@i i `uc  1 a 1 16 ]
+"2707
+[v ini_ee_tempos@_num _num `[4]i  1 a 8 17 ]
+"2723
+[v ini_ee_tempos@K K `f  1 a 3 13 ]
+"2728
+[v ini_ee_tempos@k_int k_int `i  1 a 2 9 ]
+"2649
+[v ini_ee_tempos@b1 b1 `uc  1 a 1 12 ]
+"2650
+[v ini_ee_tempos@b2 b2 `uc  1 a 1 11 ]
+"2648
+[v ini_ee_tempos@t t `f  1 p 3 51 ]
+[v ini_ee_tempos@tipo tipo `E15124  1 p 1 54 ]
+"2776
+} 0
+"2602
+[v _selectModo selectModo `(v  1 e 1 0 ]
+{
+"2605
+[v selectModo@s s `[4]*.25uc  1 a 8 38 ]
+"2604
+[v selectModo@b b `uc  1 a 1 46 ]
+"2603
+[v selectModo@loop loop `uc  1 a 1 37 ]
+"2645
+} 0
+"328
+[v _salva_EEPROM salva_EEPROM `(v  1 e 1 0 ]
+{
+[v salva_EEPROM@valor valor `ui  1 p 2 14 ]
+[v salva_EEPROM@address address `uc  1 p 1 16 ]
+"334
+} 0
+"2568
+[v _get_temp get_temp `(f  1 e 3 0 ]
+{
+"2573
+[v get_temp@i i `uc  1 a 1 37 ]
+"2569
+[v get_temp@adc adc `f  1 a 3 38 ]
+"2570
+[v get_temp@adc_c adc_c `f  1 a 3 34 ]
+"2568
+[v get_temp@K K `f  1 p 3 26 ]
+"2589
+} 0
+"336
+[v _carrega_EEPROM carrega_EEPROM `(ui  1 e 2 0 ]
+{
+[v carrega_EEPROM@address address `uc  1 a 1 wreg ]
+[v carrega_EEPROM@address address `uc  1 a 1 wreg ]
+[v carrega_EEPROM@address address `uc  1 a 1 16 ]
+"342
+} 0
+"123 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\lcd.c
+[v _Lcd_White_Center_String Lcd_White_Center_String `(v  1 e 1 0 ]
+{
+[v Lcd_White_Center_String@linha linha `uc  1 a 1 wreg ]
+"130
+[v Lcd_White_Center_String@i i `i  1 a 2 28 ]
+"125
+[v Lcd_White_Center_String@size size `uc  1 a 1 30 ]
+[v Lcd_White_Center_String@coluna coluna `uc  1 a 1 27 ]
+"123
+[v Lcd_White_Center_String@linha linha `uc  1 a 1 wreg ]
+[v Lcd_White_Center_String@a a `*.25DCuc  1 p 2 21 ]
+[v Lcd_White_Center_String@linha linha `uc  1 a 1 26 ]
+"135
+} 0
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strlen.c
+[v _strlen strlen `(ui  1 e 2 0 ]
+{
+"6
+[v strlen@cp cp `*.25DCuc  1 a 2 15 ]
+"4
+[v strlen@s s `*.25DCuc  1 p 2 11 ]
+"13
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"11
+[v ___awdiv@quotient quotient `i  1 a 2 18 ]
+"12
+[v ___awdiv@sign sign `uc  1 a 1 17 ]
+[v ___awdiv@counter counter `uc  1 a 1 16 ]
+"6
+[v ___awdiv@divisor divisor `i  1 p 2 11 ]
+[v ___awdiv@dividend dividend `i  1 p 2 13 ]
+"42
+} 0
+"260 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _ini_GERADOR ini_GERADOR `(v  1 e 1 0 ]
+{
+"271
+[v ini_GERADOR@i_2421 i `uc  1 a 1 50 ]
+"267
+[v ini_GERADOR@i_2420 i `uc  1 a 1 37 ]
+"262
+[v ini_GERADOR@i i `uc  1 a 1 36 ]
+"296
+[v ini_GERADOR@Pot_3Vref Pot_3Vref `f  1 a 3 44 ]
+"291
+[v ini_GERADOR@Xc2 Xc2 `f  1 a 3 41 ]
+"290
+[v ini_GERADOR@Xc1 Xc1 `f  1 a 3 38 ]
+"292
+[v ini_GERADOR@Xc1Xc2 Xc1Xc2 `f  1 a 3 33 ]
+"295
+[v ini_GERADOR@IT_3Vref IT_3Vref `f  1 a 3 6 ]
+"293
+[v ini_GERADOR@ang ang `f  1 a 3 3 ]
+"297
+[v ini_GERADOR@Pot_real Pot_real `f  1 a 3 0 ]
+"260
+[v ini_GERADOR@f f `ui  1 p 2 24 ]
+[v ini_GERADOR@p p `ui  1 p 2 26 ]
+[v ini_GERADOR@c c `ui  1 p 2 28 ]
+[v ini_GERADOR@v v `ui  1 p 2 30 ]
+"314
+} 0
+"9 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sprcsqrt.c
+[v _sqrt sqrt `(d  1 e 3 0 ]
+{
+"134
+[v sqrt@x x `d  1 a 3 21 ]
+[v sqrt@q q `d  1 a 3 18 ]
+[v sqrt@z z `d  1 a 3 14 ]
+[v sqrt@og og `d  1 a 3 11 ]
+"135
+[v sqrt@i i `uc  1 a 1 17 ]
+"9
+[v sqrt@a a `d  1 p 3 71 ]
+"159
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\round.c
+[v _round round `(d  1 e 3 0 ]
+{
+"8
+[v round@f f `d  1 a 3 54 ]
+"6
+[v round@x x `d  1 p 3 51 ]
+"13
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\trunc.c
+[v _trunc trunc `(d  1 e 3 0 ]
+{
+"15
+[v trunc@i i `d  1 a 3 43 ]
+"16
+[v trunc@expon expon `i  1 a 2 46 ]
+"13
+[v trunc@x x `d  1 p 3 40 ]
+"25
+} 0
+"5 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\pow.c
+[v _pow pow `(d  1 e 3 0 ]
+{
+"8
+[v pow@yi yi `ul  1 a 4 7 ]
+"7
+[v pow@sign sign `uc  1 a 1 6 ]
+"5
+[v pow@x x `d  1 p 3 64 ]
+[v pow@y y `d  1 p 3 67 ]
+"31
+} 0
+"5 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\log.c
+[v _log log `(d  1 e 3 0 ]
+{
+"7
+[v log@exponent exponent `i  1 a 2 13 ]
+"5
+[v log@x x `d  1 p 3 10 ]
+"9
+[v log@coeff coeff `DC[9]d  1 s 27 coeff ]
+"36
+} 0
+"12 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\exp.c
+[v _exp exp `(d  1 e 3 0 ]
+{
+"14
+[v exp@exponent exponent `i  1 a 2 61 ]
+"15
+[v exp@sign sign `uc  1 a 1 63 ]
+"12
+[v exp@x x `d  1 p 3 54 ]
+"17
+[v exp@coeff coeff `DC[10]d  1 s 30 coeff ]
+"57
+} 0
+"277 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\frexp.c
+[v _ldexp ldexp `(d  1 e 3 0 ]
+{
+[v ldexp@value value `d  1 p 3 10 ]
+[v ldexp@newexp newexp `i  1 p 2 13 ]
+"307
+} 0
+"32 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awtoft.c
+[v ___awtoft __awtoft `(f  1 e 3 0 ]
+{
+"34
+[v ___awtoft@sign sign `uc  1 a 1 24 ]
+"32
+[v ___awtoft@c c `i  1 p 2 19 ]
+"42
+} 0
+"35 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lltoft.c
+[v ___lltoft __lltoft `(f  1 e 3 0 ]
+{
+"37
+[v ___lltoft@exp exp `uc  1 a 1 24 ]
+"35
+[v ___lltoft@c c `ul  1 p 4 19 ]
+"46
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\cos.c
+[v _cos cos `(d  1 e 3 0 ]
+{
+[v cos@f f `d  1 p 3 67 ]
+"24
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sin.c
+[v _sin sin `(d  1 e 3 0 ]
+{
+"30
+[v sin@x2 x2 `d  1 a 3 63 ]
+[v sin@y y `d  1 a 3 57 ]
+"31
+[v sin@sgn sgn `uc  1 a 1 66 ]
+"13
+[v sin@f f `d  1 p 3 54 ]
+"15
+[v sin@coeff_a coeff_a `DC[5]d  1 s 15 coeff_a ]
+"23
+[v sin@coeff_b coeff_b `DC[4]d  1 s 12 coeff_b ]
+"57
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\floor.c
+[v _floor floor `(d  1 e 3 0 ]
+{
+"15
+[v floor@i i `d  1 a 3 43 ]
+"16
+[v floor@expon expon `i  1 a 2 46 ]
+"13
+[v floor@x x `d  1 p 3 40 ]
+"30
+} 0
+"254 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\frexp.c
+[v _frexp frexp `(d  1 e 3 0 ]
+{
+[v frexp@value value `d  1 p 3 11 ]
+[v frexp@eptr eptr `*.4i  1 p 1 14 ]
+"274
+} 0
+"44 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\fttol.c
+[v ___fttol __fttol `(l  1 e 4 0 ]
+{
+"47
+[v ___fttol@lval lval `ul  1 a 4 35 ]
+"46
+[v ___fttol@exp1 exp1 `uc  1 a 1 39 ]
+[v ___fttol@sign1 sign1 `uc  1 a 1 34 ]
+"44
+[v ___fttol@f1 f1 `f  1 p 3 26 ]
+"73
+} 0
+"42 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\altoft.c
+[v ___altoft __altoft `(f  1 e 3 0 ]
+{
+"44
+[v ___altoft@sign sign `uc  1 a 1 26 ]
+[v ___altoft@exp exp `uc  1 a 1 25 ]
+"42
+[v ___altoft@c c `l  1 p 4 19 ]
+"57
+} 0
+"18 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+{
+[v ___ftsub@f2 f2 `f  1 p 3 48 ]
+[v ___ftsub@f1 f1 `f  1 p 3 51 ]
+"27
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\atan.c
+[v _atan atan `(d  1 e 3 0 ]
+{
+"28
+[v atan@val val `d  1 a 3 67 ]
+[v atan@val_squared val_squared `d  1 a 3 64 ]
+[v atan@x x `d  1 a 3 60 ]
+[v atan@y y `d  1 a 3 57 ]
+"27
+[v atan@recip recip `uc  1 a 1 63 ]
+"8
+[v atan@f f `d  1 p 3 54 ]
+"10
+[v atan@coeff_a coeff_a `DC[6]d  1 s 18 coeff_a ]
+"19
+[v atan@coeff_b coeff_b `DC[5]d  1 s 15 coeff_b ]
+"41
+} 0
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\fabs.c
+[v _fabs fabs `(d  1 e 3 0 ]
+{
+[v fabs@d d `d  1 p 3 51 ]
+"9
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftneg.c
+[v ___ftneg __ftneg `(f  1 e 3 0 ]
+{
+[v ___ftneg@f1 f1 `f  1 p 3 48 ]
+"20
+} 0
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftge.c
+[v ___ftge __ftge `(b  1 e 0 0 ]
+{
+[v ___ftge@ff1 ff1 `f  1 p 3 11 ]
+[v ___ftge@ff2 ff2 `f  1 p 3 14 ]
+"13
+} 0
+"4 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\evalpoly.c
+[v _eval_poly eval_poly `(d  1 e 3 0 ]
+{
+"6
+[v eval_poly@res res `d  1 a 3 7 ]
+"4
+[v eval_poly@x x `d  1 p 3 0 ]
+[v eval_poly@d d `*.25DCd  1 p 2 3 ]
+[v eval_poly@n n `i  1 p 2 5 ]
+"12
+} 0
+"86 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+{
+"88
+[v ___ftadd@exp1 exp1 `uc  1 a 1 39 ]
+[v ___ftadd@exp2 exp2 `uc  1 a 1 38 ]
+[v ___ftadd@sign sign `uc  1 a 1 37 ]
+"86
+[v ___ftadd@f1 f1 `f  1 p 3 27 ]
+[v ___ftadd@f2 f2 `f  1 p 3 30 ]
+"148
+} 0
+"316 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _XC XC `(f  1 e 3 0 ]
+{
+"317
+[v XC@freq_l freq_l `f  1 a 3 30 ]
+"316
+[v XC@f f `ui  1 p 2 26 ]
+[v XC@nF nF `ui  1 p 2 28 ]
+"319
+} 0
+"28 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwtoft.c
+[v ___lwtoft __lwtoft `(f  1 e 3 0 ]
+{
+[v ___lwtoft@c c `ui  1 p 2 19 ]
+"31
+} 0
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+{
+"65
+[v ___ftmul@f3_as_product f3_as_product `um  1 a 3 51 ]
+"64
+[v ___ftmul@sign sign `uc  1 a 1 55 ]
+[v ___ftmul@cntr cntr `uc  1 a 1 54 ]
+[v ___ftmul@exp exp `uc  1 a 1 50 ]
+"62
+[v ___ftmul@f1 f1 `f  1 p 3 40 ]
+[v ___ftmul@f2 f2 `f  1 p 3 43 ]
+"157
+} 0
+"56 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+{
+"60
+[v ___ftdiv@f3 f3 `f  1 a 3 21 ]
+"59
+[v ___ftdiv@sign sign `uc  1 a 1 25 ]
+[v ___ftdiv@exp exp `uc  1 a 1 24 ]
+[v ___ftdiv@cntr cntr `uc  1 a 1 20 ]
+"56
+[v ___ftdiv@f2 f2 `f  1 p 3 10 ]
+[v ___ftdiv@f1 f1 `f  1 p 3 13 ]
+"86
+} 0
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+{
+[v ___ftpack@arg arg `um  1 p 3 11 ]
+[v ___ftpack@exp exp `uc  1 p 1 14 ]
+[v ___ftpack@sign sign `uc  1 p 1 15 ]
+"86
+} 0
+"2284 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _get_duty get_duty `(uc  1 e 1 0 ]
+{
+"2286
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul24.c
+[v ___tmul __tmul `(um  1 e 3 0 ]
+{
+"17
+[v ___tmul@product product `um  1 a 3 17 ]
+"15
+[v ___tmul@multiplier multiplier `um  1 p 3 11 ]
+[v ___tmul@multiplicand multiplicand `um  1 p 3 14 ]
+"99
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ltdiv.c
+[v ___ltdiv __ltdiv `(um  1 e 3 0 ]
+{
+"11
+[v ___ltdiv@quotient quotient `um  1 a 3 27 ]
+"12
+[v ___ltdiv@counter counter `uc  1 a 1 30 ]
+"6
+[v ___ltdiv@divisor divisor `um  1 p 3 20 ]
+[v ___ltdiv@dividend dividend `um  1 p 3 23 ]
+"31
+} 0
+"1917 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _func_rst func_rst `(v  1 e 1 0 ]
+{
+"1931
+} 0
+"1834
+[v _func_enter func_enter `(v  1 e 1 0 ]
+{
+"1872
+[v func_enter@bt bt `uc  1 a 1 47 ]
+"1915
+} 0
+"17 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\itoa.c
+[v _utoa utoa `(*.6uc  1 e 1 0 ]
+{
+[v utoa@buf buf `*.6uc  1 a 1 wreg ]
+"19
+[v utoa@v v `ui  1 a 2 30 ]
+"20
+[v utoa@c c `uc  1 a 1 32 ]
+"17
+[v utoa@buf buf `*.6uc  1 a 1 wreg ]
+[v utoa@val val `ui  1 p 2 25 ]
+[v utoa@base base `i  1 p 2 27 ]
+"22
+[v utoa@buf buf `*.6uc  1 a 1 33 ]
+"37
+} 0
+"1046 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _config_maq_especial config_maq_especial `(v  1 e 1 0 ]
+{
+"1051
+[v config_maq_especial@i_2517 i `uc  1 a 1 19 ]
+"1047
+[v config_maq_especial@i i `uc  1 a 1 18 ]
+"1072
+} 0
+"996
+[v _config_saidas config_saidas `(v  1 e 1 0 ]
+{
+[v config_saidas@x x `E15193  1 a 1 wreg ]
+[v config_saidas@x x `E15193  1 a 1 wreg ]
+[v config_saidas@ch ch `E15204  1 p 1 14 ]
+[v config_saidas@x x `E15193  1 a 1 16 ]
+"1018
+} 0
+"1032
+[v _clear_saida clear_saida `(v  1 e 1 0 ]
+{
+[v clear_saida@ch ch `E15204  1 a 1 wreg ]
+[v clear_saida@ch ch `E15204  1 a 1 wreg ]
+[v clear_saida@ch ch `E15204  1 a 1 13 ]
+"1044
+} 0
+"1186
+[v _config_flag_saida config_flag_saida `(v  1 e 1 0 ]
+{
+[v config_flag_saida@x x `E15193  1 a 1 wreg ]
+[v config_flag_saida@x x `E15193  1 a 1 wreg ]
+[v config_flag_saida@ch ch `E15204  1 p 1 11 ]
+[v config_flag_saida@x x `E15193  1 a 1 12 ]
+"1219
+} 0
+"961
+[v _config_entrada config_entrada `(v  1 e 1 0 ]
+{
+[v config_entrada@x x `E15171  1 a 1 wreg ]
+[v config_entrada@x x `E15171  1 a 1 wreg ]
+[v config_entrada@ch ch `E15184  1 p 1 13 ]
+[v config_entrada@x x `E15171  1 a 1 16 ]
+"994
+} 0
+"1143
+[v _config_flag_entrada config_flag_entrada `(v  1 e 1 0 ]
+{
+[v config_flag_entrada@x x `E15171  1 a 1 wreg ]
+[v config_flag_entrada@x x `E15171  1 a 1 wreg ]
+[v config_flag_entrada@ch ch `E15184  1 p 1 11 ]
+[v config_flag_entrada@x x `E15171  1 a 1 12 ]
+"1184
+} 0
+"860
+[v _config_IO_start config_IO_start `(v  1 e 1 0 ]
+{
+"868
+} 0
+"2902
+[v _ciclarPneumatico ciclarPneumatico `(v  1 e 1 0 ]
+{
+"2904
+[v ciclarPneumatico@contarTempo contarTempo `ui  1 a 2 13 ]
+"2903
+[v ciclarPneumatico@contarDescidas contarDescidas `ui  1 a 2 11 ]
+"2947
+} 0
+"2778
+[v _ciclar ciclar `(v  1 e 1 0 ]
+{
+"2783
+[v ciclar@temp_n_pecas temp_n_pecas `ul  1 a 4 23 ]
+"2781
+[v ciclar@ciclos ciclos `ui  1 a 2 29 ]
+"2779
+[v ciclar@etapa etapa `uc  1 a 1 31 ]
+"2782
+[v ciclar@temp temp `uc  1 a 1 28 ]
+"2780
+[v ciclar@bt bt `uc  1 a 1 27 ]
+"2900
+} 0
+"686
+[v _trata_dados trata_dados `(v  1 e 1 0 ]
+{
+"703
+[v trata_dados@i i `uc  1 a 1 22 ]
+"775
+[v trata_dados@bt_2483 bt `uc  1 a 1 19 ]
+"702
+[v trata_dados@f f `ul  1 a 4 14 ]
+"727
+[v trata_dados@bt bt `uc  1 a 1 18 ]
+"795
+} 0
+"807
+[v _trava_erro trava_erro `(v  1 e 1 0 ]
+{
+"812
+[v trava_erro@t t `ui  1 a 2 4 ]
+"808
+[v trava_erro@bt bt `uc  1 a 1 6 ]
+"807
+[v trava_erro@s s `*.25DCuc  1 p 2 55 ]
+"828
+} 0
+"1310
+[v _tela_inicial tela_inicial `(v  1 e 1 0 ]
+{
+"1326
+} 0
+"920
+[v _entrada entrada `(ui  1 e 2 0 ]
+{
+[v entrada@x x `E15171  1 a 1 wreg ]
+"921
+[v entrada@p p `uc  1 a 1 16 ]
+"920
+[v entrada@x x `E15171  1 a 1 wreg ]
+[v entrada@x x `E15171  1 a 1 15 ]
+"923
+} 0
+"1278
+[v _tela_ultima_solda tela_ultima_solda `(v  1 e 1 0 ]
+{
+"1308
+} 0
+"194
+[v _set_freq set_freq `(v  1 e 1 0 ]
+{
+"199
+[v set_freq@f_get f_get `ui  1 a 2 44 ]
+"196
+[v set_freq@ok ok `uc  1 a 1 43 ]
+"197
+[v set_freq@i i `uc  1 a 1 42 ]
+"194
+[v set_freq@f f `ui  1 p 2 38 ]
+"231
+} 0
+"1346
+[v _rst_inversor rst_inversor `(v  1 e 1 0 ]
+{
+"1352
+} 0
+"321
+[v _delay delay `(v  1 e 1 0 ]
+{
+"322
+[v delay@t t `ui  1 a 2 25 ]
+"321
+[v delay@ms ms `ui  1 p 2 19 ]
+"326
+} 0
+"356
+[v _carrega_EEPROM32 carrega_EEPROM32 `(ul  1 e 4 0 ]
+{
+[v carrega_EEPROM32@address address `uc  1 a 1 wreg ]
+[v carrega_EEPROM32@address address `uc  1 a 1 wreg ]
+[v carrega_EEPROM32@address address `uc  1 a 1 18 ]
+"366
+} 0
+"432
+[v _op_solda op_solda `(v  1 e 1 0 ]
+{
+"442
+[v op_solda@conta_erro conta_erro `uc  1 a 1 1 ]
+"443
+[v op_solda@subida_acionamento subida_acionamento `uc  1 a 1 0 ]
+"432
+[v op_solda@t t `ui  1 p 2 51 ]
+"571
+} 0
+"233
+[v _ver_freq ver_freq `(uc  1 e 1 0 ]
+{
+[v ver_freq@f f `ui  1 p 2 38 ]
+"244
+} 0
+"2113
+[v _status_gerador status_gerador `(v  1 e 1 0 ]
+{
+[v status_gerador@x x `E15193  1 a 1 wreg ]
+[v status_gerador@x x `E15193  1 a 1 wreg ]
+[v status_gerador@b b `ui  1 p 2 16 ]
+[v status_gerador@x x `E15193  1 a 1 18 ]
+"2146
+} 0
+"175
+[v _get_freq get_freq `(ui  1 e 2 0 ]
+{
+[v get_freq@acumulo acumulo `uc  1 a 1 wreg ]
+[v get_freq@acumulo acumulo `uc  1 a 1 wreg ]
+"176
+[v get_freq@p p `ul  1 s 4 p ]
+[v get_freq@pp pp `ul  1 s 4 pp ]
+"177
+[v get_freq@i i `uc  1 s 1 i ]
+"178
+[v get_freq@i_arr i_arr `uc  1 s 1 i_arr ]
+[v get_freq@acumulo acumulo `uc  1 a 1 37 ]
+"192
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"11
+[v ___awmod@sign sign `uc  1 a 1 23 ]
+[v ___awmod@counter counter `uc  1 a 1 22 ]
+"6
+[v ___awmod@divisor divisor `i  1 p 2 17 ]
+[v ___awmod@dividend dividend `i  1 p 2 19 ]
+"35
+} 0
+"2230 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _SMT1_GetCapturedPeriod SMT1_GetCapturedPeriod `(ul  1 e 4 0 ]
+{
+"2233
+} 0
+"3014
+[v _escreve_freq escreve_freq `(v  1 e 1 0 ]
+{
+"3019
+} 0
+"573
+[v _op_fixar op_fixar `(v  1 e 1 0 ]
+{
+"585
+[v op_fixar@conta_erro conta_erro `uc  1 a 1 33 ]
+[v op_fixar@e e `uc  1 a 1 32 ]
+"573
+[v op_fixar@t t `ui  1 p 2 26 ]
+"654
+} 0
+"1354
+[v _salva_n_pecas salva_n_pecas `(v  1 e 1 0 ]
+{
+"1360
+} 0
+"344
+[v _salva_EEPROM32 salva_EEPROM32 `(v  1 e 1 0 ]
+{
+[v salva_EEPROM32@valor valor `ul  1 p 4 14 ]
+[v salva_EEPROM32@address address `uc  1 p 1 18 ]
+"354
+} 0
+"368
+[v _op_desce op_desce `(v  1 e 1 0 ]
+{
+[v op_desce@t t `ui  1 p 2 51 ]
+"430
+} 0
+"925
+[v _ver_entrada ver_entrada `(v  1 e 1 0 ]
+{
+"926
+[v ver_entrada@temp temp `uc  1 s 1 temp ]
+"959
+} 0
+"870
+[v _ISR_entrada ISR_entrada `(v  1 e 1 0 ]
+{
+[v ISR_entrada@ch ch `E15184  1 a 1 wreg ]
+"873
+[v ISR_entrada@b b `ui  1 a 2 16 ]
+"871
+[v ISR_entrada@x x `uc  1 a 1 15 ]
+"872
+[v ISR_entrada@p p `uc  1 a 1 14 ]
+"870
+[v ISR_entrada@ch ch `E15184  1 a 1 wreg ]
+[v ISR_entrada@ch ch `E15184  1 a 1 13 ]
+"918
+} 0
+"1221
+[v _saida saida `(v  1 e 1 0 ]
+{
+[v saida@x x `E15193  1 a 1 wreg ]
+"1222
+[v saida@port port `uc  1 a 1 14 ]
+"1221
+[v saida@x x `E15193  1 a 1 wreg ]
+[v saida@b b `ui  1 p 2 11 ]
+[v saida@x x `E15193  1 a 1 15 ]
+"1229
+} 0
+"7 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ltoa.c
+[v _ltoa ltoa `(*.6uc  1 e 1 0 ]
+{
+[v ltoa@buf buf `*.6uc  1 a 1 wreg ]
+"10
+[v ltoa@cp cp `*.6uc  1 a 1 49 ]
+"7
+[v ltoa@buf buf `*.6uc  1 a 1 wreg ]
+[v ltoa@val val `l  1 p 4 42 ]
+[v ltoa@base base `i  1 p 2 46 ]
+"10
+[v ltoa@buf buf `*.6uc  1 a 1 50 ]
+"22
+} 0
+"32
+[v _ultoa ultoa `(*.6uc  1 e 1 0 ]
+{
+[v ultoa@buf buf `*.6uc  1 a 1 wreg ]
+"35
+[v ultoa@v v `ul  1 a 4 36 ]
+"36
+[v ultoa@c c `uc  1 a 1 40 ]
+"32
+[v ultoa@buf buf `*.6uc  1 a 1 wreg ]
+[v ultoa@val val `ul  1 p 4 29 ]
+[v ultoa@base base `i  1 p 2 33 ]
+"38
+[v ultoa@buf buf `*.6uc  1 a 1 41 ]
+"53
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\llmod.c
+[v ___llmod __llmod `(ul  1 e 4 0 ]
+{
+"11
+[v ___llmod@counter counter `uc  1 a 1 20 ]
+"6
+[v ___llmod@divisor divisor `ul  1 p 4 11 ]
+[v ___llmod@dividend dividend `ul  1 p 4 15 ]
+"26
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lldiv.c
+[v ___lldiv __lldiv `(ul  1 e 4 0 ]
+{
+"11
+[v ___lldiv@quotient quotient `ul  1 a 4 24 ]
+"12
+[v ___lldiv@counter counter `uc  1 a 1 28 ]
+"6
+[v ___lldiv@divisor divisor `ul  1 p 4 15 ]
+[v ___lldiv@dividend dividend `ul  1 p 4 19 ]
+"31
+} 0
+"2462 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"2479
+} 0
+"2418
+[v _TMR6_Initialize TMR6_Initialize `(v  1 e 1 0 ]
+{
+"2460
+} 0
+"2377
+[v _TMR5_Initialize TMR5_Initialize `(v  1 e 1 0 ]
+{
+"2398
+} 0
+"2288
+[v _TMR1_Initialize TMR1_Initialize `(v  1 e 1 0 ]
+{
+"2332
+} 0
+"2235
+[v _SMT2_Initialize SMT2_Initialize `(v  1 e 1 0 ]
+{
+"2267
+} 0
+"2186
+[v _SMT1_Initialize SMT1_Initialize `(v  1 e 1 0 ]
+{
+"2218
+} 0
+"2148
+[v _PWM2_Initialize PWM2_Initialize `(v  1 e 1 0 ]
+{
+"2166
+} 0
+"2168
+[v _PWM2_LoadDutyValue PWM2_LoadDutyValue `(v  1 e 1 0 ]
+{
+[v PWM2_LoadDutyValue@dutyValue dutyValue `ui  1 p 2 11 ]
+"2184
+} 0
+"2495
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+{
+"2509
+} 0
+"76
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"173
+} 0
+"2481
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"2493
+} 0
+"151 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\lcd.c
+[v _Inicia_LCD Inicia_LCD `(v  1 e 1 0 ]
+{
+"187
+} 0
+"67
+[v _Lcd_Init Lcd_Init `(v  1 e 1 0 ]
+{
+"93
+} 0
+"18 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\eusart.c
+[v _EUSART_Initialize EUSART_Initialize `(v  1 e 1 0 ]
+{
+"54
+} 0
+"165
+[v _EUSART_SetTxInterruptHandler EUSART_SetTxInterruptHandler `(v  1 e 1 0 ]
+{
+[v EUSART_SetTxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 11 ]
+"167
+} 0
+"169
+[v _EUSART_SetRxInterruptHandler EUSART_SetRxInterruptHandler `(v  1 e 1 0 ]
+{
+[v EUSART_SetRxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 11 ]
+"171
+} 0
+"2511 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _CLC1_Initialize CLC1_Initialize `(v  1 e 1 0 ]
+{
+"2522
+} 0
+"2524
+[v _ADCC_Initialize ADCC_Initialize `(v  1 e 1 0 ]
+{
+"2567
+} 0
+"129 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\login.c
+[v _Autenticar Autenticar `(uc  1 e 1 0 ]
+{
+"133
+[v Autenticar@senha senha `[5]uc  1 a 5 0 ]
+"134
+[v Autenticar@coluna coluna `uc  1 a 1 6 ]
+"135
+[v Autenticar@bt_a bt_a `uc  1 a 1 5 ]
+"131
+[v Autenticar@F15930 F15930 `[5]uc  1 s 5 F15930 ]
+"215
+} 0
+"123
+[v _verifSenhas verifSenhas `(uc  1 e 1 0 ]
+{
+[v verifSenhas@sh sh `*.4uc  1 a 1 wreg ]
+[v verifSenhas@sh sh `*.4uc  1 a 1 wreg ]
+[v verifSenhas@sh sh `*.4uc  1 a 1 16 ]
+"127
+} 0
+"33 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\strcmp.c
+[v _strcmp strcmp `(i  1 e 2 0 ]
+{
+[v strcmp@s1 s1 `*.4DCuc  1 a 1 wreg ]
+"35
+[v strcmp@r r `c  1 a 1 14 ]
+"33
+[v strcmp@s1 s1 `*.4DCuc  1 a 1 wreg ]
+[v strcmp@s2 s2 `*.26DCuc  1 p 2 11 ]
+[v strcmp@s1 s1 `*.4DCuc  1 a 1 15 ]
+"42
+} 0
+"32 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\login.c
+[v _printTelaSenha printTelaSenha `(v  1 e 1 0 ]
+{
+[v printTelaSenha@s s `*.4uc  1 a 1 wreg ]
+[v printTelaSenha@s s `*.4uc  1 a 1 wreg ]
+[v printTelaSenha@col col `uc  1 p 1 41 ]
+[v printTelaSenha@s s `*.4uc  1 a 1 46 ]
+"40
+} 0
+"17
+[v _LoadSenhaGerador LoadSenhaGerador `(v  1 e 1 0 ]
+{
+"30
+} 0
+"50
+[v _EditSenhaUser EditSenhaUser `(v  1 e 1 0 ]
+{
+"51
+[v EditSenhaUser@senha senha `[5]uc  1 a 5 48 ]
+"52
+[v EditSenhaUser@coluna coluna `uc  1 a 1 54 ]
+"53
+[v EditSenhaUser@bt_a bt_a `uc  1 a 1 53 ]
+"121
+} 0
+"42
+[v _printTelaEditarSenha printTelaEditarSenha `(v  1 e 1 0 ]
+{
+[v printTelaEditarSenha@s s `*.4uc  1 a 1 wreg ]
+[v printTelaEditarSenha@s s `*.4uc  1 a 1 wreg ]
+[v printTelaEditarSenha@col col `uc  1 p 1 41 ]
+[v printTelaEditarSenha@s s `*.4uc  1 a 1 46 ]
+"48
+} 0
+"492 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\doprnt.c
+[v _sprintf sprintf `(i  1 e 2 0 ]
+{
+"528
+[v sprintf@val val `ui  1 a 2 38 ]
+"499
+[v sprintf@c c `c  1 a 1 40 ]
+"506
+[v sprintf@prec prec `c  1 a 1 37 ]
+"508
+[v sprintf@flag flag `uc  1 a 1 36 ]
+"494
+[v sprintf@ap ap `[1]*.4v  1 a 1 35 ]
+"492
+[v sprintf@sp sp `*.39uc  1 p 2 25 ]
+[v sprintf@f f `*.26DCuc  1 p 2 27 ]
+"1541
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+{
+"11
+[v ___lwmod@counter counter `uc  1 a 1 24 ]
+"6
+[v ___lwmod@divisor divisor `ui  1 p 2 19 ]
+[v ___lwmod@dividend dividend `ui  1 p 2 21 ]
+"26
+} 0
+"188 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\lcd.c
+[v _escreve_LCD escreve_LCD `(v  1 e 1 0 ]
+{
+[v escreve_LCD@linha linha `uc  1 a 1 wreg ]
+[v escreve_LCD@linha linha `uc  1 a 1 wreg ]
+[v escreve_LCD@coluna coluna `uc  1 p 1 21 ]
+[v escreve_LCD@str str `*.26DCuc  1 p 2 22 ]
+[v escreve_LCD@linha linha `uc  1 a 1 25 ]
+"193
+} 0
+"114
+[v _Lcd_Write_String Lcd_Write_String `(v  1 e 1 0 ]
+{
+"118
+[v Lcd_Write_String@i i `i  1 a 2 19 ]
+"114
+[v Lcd_Write_String@a a `*.26DCuc  1 p 2 16 ]
+"122
+} 0
+"95
+[v _Lcd_Write_Char Lcd_Write_Char `(v  1 e 1 0 ]
+{
+[v Lcd_Write_Char@a a `uc  1 a 1 wreg ]
+"98
+[v Lcd_Write_Char@y y `uc  1 a 1 14 ]
+[v Lcd_Write_Char@temp temp `uc  1 a 1 13 ]
+"95
+[v Lcd_Write_Char@a a `uc  1 a 1 wreg ]
+"97
+[v Lcd_Write_Char@a a `uc  1 a 1 15 ]
+"112
+} 0
+"44
+[v _Lcd_Set_Cursor Lcd_Set_Cursor `(v  1 e 1 0 ]
+{
+[v Lcd_Set_Cursor@a a `uc  1 a 1 wreg ]
+"47
+[v Lcd_Set_Cursor@temp temp `uc  1 a 1 20 ]
+[v Lcd_Set_Cursor@y y `uc  1 a 1 19 ]
+[v Lcd_Set_Cursor@z z `uc  1 a 1 18 ]
+"44
+[v Lcd_Set_Cursor@a a `uc  1 a 1 wreg ]
+[v Lcd_Set_Cursor@b b `uc  1 p 1 14 ]
+"46
+[v Lcd_Set_Cursor@a a `uc  1 a 1 17 ]
+"65
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 15 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 11 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 13 ]
+"53
+} 0
+"36 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\lcd.c
+[v _Lcd_Clear Lcd_Clear `(v  1 e 1 0 ]
+{
+"42
+} 0
+"25
+[v _Lcd_Cmd Lcd_Cmd `(v  1 e 1 0 ]
+{
+[v Lcd_Cmd@a a `uc  1 a 1 wreg ]
+[v Lcd_Cmd@a a `uc  1 a 1 wreg ]
+"27
+[v Lcd_Cmd@a a `uc  1 a 1 13 ]
+"34
+} 0
+"3
+[v _Lcd_Port Lcd_Port `(v  1 e 1 0 ]
+{
+[v Lcd_Port@a a `uc  1 a 1 wreg ]
+[v Lcd_Port@a a `uc  1 a 1 wreg ]
+"5
+[v Lcd_Port@a a `uc  1 a 1 11 ]
+"24
+} 0
+"1429 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _liberar_tecla liberar_tecla `(ui  1 e 2 0 ]
+{
+[v liberar_tecla@b b `uc  1 a 1 wreg ]
+"1431
+[v liberar_tecla@tempo tempo `ui  1 a 2 28 ]
+[v liberar_tecla@temp temp `ui  1 a 2 26 ]
+"1430
+[v liberar_tecla@tc tc `uc  1 a 1 30 ]
+"1429
+[v liberar_tecla@b b `uc  1 a 1 wreg ]
+[v liberar_tecla@t t `ui  1 p 2 19 ]
+"1431
+[v liberar_tecla@b b `uc  1 a 1 25 ]
+"1454
+} 0
+"1362
+[v _teclado teclado `(uc  1 e 1 0 ]
+{
+"1363
+[v teclado@b b `uc  1 s 1 b ]
+"1417
+} 0
+"2414
+[v _stop_timer stop_timer `(v  1 e 1 0 ]
+{
+"2416
+} 0
+"2408
+[v _start_timer start_timer `(v  1 e 1 0 ]
+{
+[v start_timer@t t `ui  1 p 2 11 ]
+"2413
+} 0
+"1419
+[v _bip_tecla bip_tecla `(v  1 e 1 0 ]
+{
+"1427
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"11
+[v ___lwdiv@quotient quotient `ui  1 a 2 17 ]
+"12
+[v ___lwdiv@counter counter `uc  1 a 1 16 ]
+"6
+[v ___lwdiv@divisor divisor `ui  1 p 2 11 ]
+[v ___lwdiv@dividend dividend `ui  1 p 2 13 ]
+"31
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eewrite.c
+[v _eeprom_write eeprom_write `(v  1 e 1 0 ]
+{
+[v eeprom_write@addr addr `uc  1 a 1 wreg ]
+[v eeprom_write@addr addr `uc  1 a 1 wreg ]
+[v eeprom_write@value value `uc  1 p 1 11 ]
+[v eeprom_write@addr addr `uc  1 a 1 12 ]
+"9
+} 0
+"8 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\login.c
+[v _LoadSenhaUser LoadSenhaUser `(v  1 e 1 0 ]
+{
+"15
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\pic\eeread.c
+[v _eeprom_read eeprom_read `(uc  1 e 1 0 ]
+{
+[v eeprom_read@addr addr `uc  1 a 1 wreg ]
+[v eeprom_read@addr addr `uc  1 a 1 wreg ]
+"9
+[v eeprom_read@addr addr `uc  1 a 1 11 ]
+"12
+} 0
+"4 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+{
+"56
+[v INTERRUPT_InterruptManager@i i `uc  1 a 1 10 ]
+"30
+[v INTERRUPT_InterruptManager@duty_mod_pot duty_mod_pot `uc  1 s 1 duty_mod_pot ]
+"74
+} 0
+"2414
+[v i1_stop_timer stop_timer `(v  1 e 1 0 ]
+{
+"2416
+} 0
+"2284
+[v i1_get_duty get_duty `(uc  1 e 1 0 ]
+{
+"2286
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul24.c
+[v i1___tmul __tmul `(um  1 e 3 0 ]
+{
+[v i1___tmul@product __tmul `um  1 a 3 6 ]
+[v i1___tmul@multiplier multiplier `um  1 p 3 0 ]
+[v i1___tmul@multiplicand multiplicand `um  1 p 3 3 ]
+"99
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ltdiv.c
+[v i1___ltdiv __ltdiv `(um  1 e 3 0 ]
+{
+[v i1___ltdiv@quotient __ltdiv `um  1 a 3 10 ]
+[v i1___ltdiv@counter __ltdiv `uc  1 a 1 13 ]
+[v i1___ltdiv@divisor divisor `um  1 p 3 0 ]
+[v i1___ltdiv@dividend dividend `um  1 p 3 3 ]
+"31
+} 0
+"246 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _pontencia_instantanea pontencia_instantanea `(ui  1 e 2 0 ]
+{
+[v pontencia_instantanea@d d `uc  1 a 1 wreg ]
+[v pontencia_instantanea@d d `uc  1 a 1 wreg ]
+[v pontencia_instantanea@d d `uc  1 a 1 4 ]
+"258
+} 0
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul16.c
+[v i1___wmul __wmul `(ui  1 e 2 0 ]
+{
+[v i1___wmul@product __wmul `ui  1 a 2 4 ]
+[v i1___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v i1___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"6 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\lwdiv.c
+[v i1___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+[v i1___lwdiv@quotient __lwdiv `ui  1 a 2 11 ]
+[v i1___lwdiv@counter __lwdiv `uc  1 a 1 13 ]
+[v i1___lwdiv@divisor divisor `ui  1 p 2 6 ]
+[v i1___lwdiv@dividend dividend `ui  1 p 2 8 ]
+"31
+} 0
+"1248 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\func.c
+[v _load_bar load_bar `(v  1 e 1 0 ]
+{
+"1263
+} 0
+"1238
+[v i1_data data `(v  1 e 1 0 ]
+{
+[v i1data@b b `ui  1 p 2 0 ]
+"1246
+} 0
+"1231
+[v i1_clr clr `(v  1 e 1 0 ]
+{
+"1236
+} 0
+"2404
+[v _TMR5_Reload TMR5_Reload `(v  1 e 1 0 ]
+{
+"2407
+} 0
+"2399
+[v _TMR5_WriteTimer TMR5_WriteTimer `(v  1 e 1 0 ]
+{
+[v TMR5_WriteTimer@timerVal timerVal `ui  1 p 2 0 ]
+"2403
+} 0
+"2372
+[v _TMR1_Reload TMR1_Reload `(v  1 e 1 0 ]
+{
+"2375
+} 0
+"2350
+[v _TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+{
+[v TMR1_WriteTimer@timerVal timerVal `ui  1 p 2 0 ]
+"2370
+} 0
+"126 C:\Users\Eletrico\Documents\# Sonitron\4 Programas\Gerador\V2 V4\CLP\2025\CLP_4.2.0\eusart.c
+[v _EUSART_Transmit_ISR EUSART_Transmit_ISR `(v  1 e 1 0 ]
+{
+"143
+} 0
+"145
+[v _EUSART_Receive_ISR EUSART_Receive_ISR `(v  1 e 1 0 ]
+{
+"163
+} 0

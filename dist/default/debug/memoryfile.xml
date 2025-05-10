@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug\CLP_4.2.0.debug.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>32768</length>
+      <used>25616</used>
+      <free>7152</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>787</used>
+      <free>3309</free>
+    </memory>
+  </executable>
+</project>

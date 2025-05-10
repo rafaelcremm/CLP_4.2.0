@@ -1,5 +1,6 @@
 
 /* 
+ * Ver 4.2.96   -> Inserido controle de amplitude via PWM, pela porta serial configurada no pino RC6 - TX
  * Ver 4.2.95   -> HF alterado para Saida OUT3. OUT2 é Exclusiva para Pneumatico (¬¬)
  * Ver 4.2.94   -> Inserido Senha de Acesso ao Menu. (11/10/2023)
  *              -> Inserido funcao Solda continua por pulsos (01/11/2023)
@@ -26,6 +27,7 @@
  * ver 4.1.1    -> inserido escolha pistola / maquina via telas.
  *              -> Corrigido erro no calculo de temperarura. (estouro de int)
  */
+
 #include "Historico_Ver4.h"
 #include "config.h"
 #include "func.h"
