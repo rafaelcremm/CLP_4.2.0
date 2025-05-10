@@ -1,6 +1,6 @@
 //----------------------------------------------------- DATA GRAVACAO -> 08/04/2019
 #define Nome_Cliente    "SONITRON"          //NAO ALTERAR MAIS ESTE NOME (max 16 caracteres) 
-#define Num_Serie       "E25 3805"           //Numero de serie do Gerador
+#define Num_Serie       "E25 3804"           //Numero de serie do Gerador
 #define Tipo_Maquina    PISTOLA_PULSADO     //PISTOLA_PULSADO,MAQUINA_PULSADO,MAQUINA_MM,ESPECIAL (Especial deve ser configurado no programa, na funcao "config_maq_especial()")
 #define Tipo_Gerador    SOW280              //SOW280,SOW160,SOW120,SOW100,SOWESP
 #define IDIOMA          PORTUGUES              //PORTUGUES,INGLES
@@ -17,7 +17,7 @@
 #define RECONDICINADO   0               
 #define STR_RECOND_1     "REPARADO POR" 
 #define STR_RECOND_2     "SONITRON"
-#define STR_RECOND_DATA  "EM 10/12/2024" 
+#define STR_RECOND_DATA  "EM 10/12/2024"
 
 /******************************************************************************/
 /******************************** HISTORICO ***********************************/
